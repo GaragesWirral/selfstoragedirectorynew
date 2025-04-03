@@ -1,0 +1,7 @@
+# robots.txt for Storage Finder
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://storagefinder.uk/sitemap.xml 

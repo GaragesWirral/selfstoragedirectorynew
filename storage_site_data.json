@@ -1,0 +1,6621 @@
+{
+  "regions": [
+    {
+      "name": "aberdeen-city",
+      "path": "selfstorageaberdeen-city/index.html"
+    },
+    {
+      "name": "aberdeenshire",
+      "path": "selfstorageaberdeenshire/index.html"
+    },
+    {
+      "name": "angus",
+      "path": "selfstorageangus/index.html"
+    },
+    {
+      "name": "argyll-and-bute",
+      "path": "selfstorageargyll-and-bute/index.html"
+    },
+    {
+      "name": "bedfordshire",
+      "path": "selfstoragebedfordshire/index.html"
+    },
+    {
+      "name": "berkshire",
+      "path": "selfstorageberkshire/index.html"
+    },
+    {
+      "name": "bristol",
+      "path": "selfstoragebristol/index.html"
+    },
+    {
+      "name": "buckinghamshire",
+      "path": "selfstoragebuckinghamshire/index.html"
+    },
+    {
+      "name": "cambridgeshire",
+      "path": "selfstoragecambridgeshire/index.html"
+    },
+    {
+      "name": "cheshire",
+      "path": "selfstoragecheshire/index.html"
+    },
+    {
+      "name": "city-of-edinburgh",
+      "path": "selfstoragecity-of-edinburgh/index.html"
+    },
+    {
+      "name": "city-of-london",
+      "path": "selfstoragecity-of-london/index.html"
+    },
+    {
+      "name": "clackmannanshire",
+      "path": "selfstorageclackmannanshire/index.html"
+    },
+    {
+      "name": "cornwall",
+      "path": "selfstoragecornwall/index.html"
+    },
+    {
+      "name": "cumbria",
+      "path": "selfstoragecumbria/index.html"
+    },
+    {
+      "name": "derbyshire",
+      "path": "selfstoragederbyshire/index.html"
+    },
+    {
+      "name": "devon",
+      "path": "selfstoragedevon/index.html"
+    },
+    {
+      "name": "dorset",
+      "path": "selfstoragedorset/index.html"
+    },
+    {
+      "name": "dumfries-and-galloway",
+      "path": "selfstoragedumfries-and-galloway/index.html"
+    },
+    {
+      "name": "dundee-city",
+      "path": "selfstoragedundee-city/index.html"
+    },
+    {
+      "name": "durham",
+      "path": "selfstoragedurham/index.html"
+    },
+    {
+      "name": "east-ayrshire",
+      "path": "selfstorageeast-ayrshire/index.html"
+    },
+    {
+      "name": "east-dunbartonshire",
+      "path": "selfstorageeast-dunbartonshire/index.html"
+    },
+    {
+      "name": "east-lothian",
+      "path": "selfstorageeast-lothian/index.html"
+    },
+    {
+      "name": "east-renfrewshire",
+      "path": "selfstorageeast-renfrewshire/index.html"
+    },
+    {
+      "name": "east-sussex",
+      "path": "selfstorageeast-sussex/index.html"
+    },
+    {
+      "name": "east-yorkshire",
+      "path": "selfstorageeast-yorkshire/index.html"
+    },
+    {
+      "name": "eilean-siar--western-isles-",
+      "path": "selfstorageeilean-siar--western-isles-/index.html"
+    },
+    {
+      "name": "essex",
+      "path": "selfstorageessex/index.html"
+    },
+    {
+      "name": "falkirk",
+      "path": "selfstoragefalkirk/index.html"
+    },
+    {
+      "name": "fife",
+      "path": "selfstoragefife/index.html"
+    },
+    {
+      "name": "glasgow-city",
+      "path": "selfstorageglasgow-city/index.html"
+    },
+    {
+      "name": "gloucestershire",
+      "path": "selfstoragegloucestershire/index.html"
+    },
+    {
+      "name": "greater-london",
+      "path": "selfstoragegreater-london/index.html"
+    },
+    {
+      "name": "greater-manchester",
+      "path": "selfstoragegreater-manchester/index.html"
+    },
+    {
+      "name": "hampshire",
+      "path": "selfstoragehampshire/index.html"
+    },
+    {
+      "name": "herefordshire",
+      "path": "selfstorageherefordshire/index.html"
+    },
+    {
+      "name": "hertfordshire",
+      "path": "selfstoragehertfordshire/index.html"
+    },
+    {
+      "name": "highland",
+      "path": "selfstoragehighland/index.html"
+    },
+    {
+      "name": "inverclyde",
+      "path": "selfstorageinverclyde/index.html"
+    },
+    {
+      "name": "isle-of-wight",
+      "path": "selfstorageisle-of-wight/index.html"
+    },
+    {
+      "name": "kent",
+      "path": "selfstoragekent/index.html"
+    },
+    {
+      "name": "lancashire",
+      "path": "selfstoragelancashire/index.html"
+    },
+    {
+      "name": "leicestershire",
+      "path": "selfstorageleicestershire/index.html"
+    },
+    {
+      "name": "lincolnshire",
+      "path": "selfstoragelincolnshire/index.html"
+    },
+    {
+      "name": "merseyside",
+      "path": "selfstoragemerseyside/index.html"
+    },
+    {
+      "name": "midlothian",
+      "path": "selfstoragemidlothian/index.html"
+    },
+    {
+      "name": "moray",
+      "path": "selfstoragemoray/index.html"
+    },
+    {
+      "name": "norfolk",
+      "path": "selfstoragenorfolk/index.html"
+    },
+    {
+      "name": "north-ayrshire",
+      "path": "selfstoragenorth-ayrshire/index.html"
+    },
+    {
+      "name": "north-lanarkshire",
+      "path": "selfstoragenorth-lanarkshire/index.html"
+    },
+    {
+      "name": "north-yorkshire",
+      "path": "selfstoragenorth-yorkshire/index.html"
+    },
+    {
+      "name": "northamptonshire",
+      "path": "selfstoragenorthamptonshire/index.html"
+    },
+    {
+      "name": "northumberland",
+      "path": "selfstoragenorthumberland/index.html"
+    },
+    {
+      "name": "nottinghamshire",
+      "path": "selfstoragenottinghamshire/index.html"
+    },
+    {
+      "name": "oxfordshire",
+      "path": "selfstorageoxfordshire/index.html"
+    },
+    {
+      "name": "perth-and-kinross",
+      "path": "selfstorageperth-and-kinross/index.html"
+    },
+    {
+      "name": "regions",
+      "path": "selfstorageregions/index.html"
+    },
+    {
+      "name": "renfrewshire",
+      "path": "selfstoragerenfrewshire/index.html"
+    },
+    {
+      "name": "rutland",
+      "path": "selfstoragerutland/index.html"
+    },
+    {
+      "name": "scottish-borders",
+      "path": "selfstoragescottish-borders/index.html"
+    },
+    {
+      "name": "shetland-islands",
+      "path": "selfstorageshetland-islands/index.html"
+    },
+    {
+      "name": "shropshire",
+      "path": "selfstorageshropshire/index.html"
+    },
+    {
+      "name": "somerset",
+      "path": "selfstoragesomerset/index.html"
+    },
+    {
+      "name": "south-ayrshire",
+      "path": "selfstoragesouth-ayrshire/index.html"
+    },
+    {
+      "name": "south-lanarkshire",
+      "path": "selfstoragesouth-lanarkshire/index.html"
+    },
+    {
+      "name": "south-yorkshire",
+      "path": "selfstoragesouth-yorkshire/index.html"
+    },
+    {
+      "name": "staffordshire",
+      "path": "selfstoragestaffordshire/index.html"
+    },
+    {
+      "name": "stirling",
+      "path": "selfstoragestirling/index.html"
+    },
+    {
+      "name": "suffolk",
+      "path": "selfstoragesuffolk/index.html"
+    },
+    {
+      "name": "surrey",
+      "path": "selfstoragesurrey/index.html"
+    },
+    {
+      "name": "tyne-and-wear",
+      "path": "selfstoragetyne-and-wear/index.html"
+    },
+    {
+      "name": "warwickshire",
+      "path": "selfstoragewarwickshire/index.html"
+    },
+    {
+      "name": "west-dunbartonshire",
+      "path": "selfstoragewest-dunbartonshire/index.html"
+    },
+    {
+      "name": "west-lothian",
+      "path": "selfstoragewest-lothian/index.html"
+    },
+    {
+      "name": "west-midlands",
+      "path": "selfstoragewest-midlands/index.html"
+    },
+    {
+      "name": "west-sussex",
+      "path": "selfstoragewest-sussex/index.html"
+    },
+    {
+      "name": "west-yorkshire",
+      "path": "selfstoragewest-yorkshire/index.html"
+    },
+    {
+      "name": "wiltshire",
+      "path": "selfstoragewiltshire/index.html"
+    },
+    {
+      "name": "worcestershire",
+      "path": "selfstorageworcestershire/index.html"
+    }
+  ],
+  "cities": [
+    {
+      "name": "aberdeen",
+      "path": "selfstorageaberdeen-city/selfstorageaberdeen/index.html",
+      "region": "aberdeen-city"
+    },
+    {
+      "name": "aboyne",
+      "path": "selfstorageaberdeenshire/selfstorageaboyne/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "alford",
+      "path": "selfstorageaberdeenshire/selfstoragealford/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "banchory",
+      "path": "selfstorageaberdeenshire/selfstoragebanchory/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "banff",
+      "path": "selfstorageaberdeenshire/selfstoragebanff/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "ellon",
+      "path": "selfstorageaberdeenshire/selfstorageellon/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "fraserburgh",
+      "path": "selfstorageaberdeenshire/selfstoragefraserburgh/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "huntly",
+      "path": "selfstorageaberdeenshire/selfstoragehuntly/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "inverurie",
+      "path": "selfstorageaberdeenshire/selfstorageinverurie/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "kemnay",
+      "path": "selfstorageaberdeenshire/selfstoragekemnay/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "kintore",
+      "path": "selfstorageaberdeenshire/selfstoragekintore/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "laurencekirk",
+      "path": "selfstorageaberdeenshire/selfstoragelaurencekirk/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "macduff",
+      "path": "selfstorageaberdeenshire/selfstoragemacduff/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "mintlaw",
+      "path": "selfstorageaberdeenshire/selfstoragemintlaw/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "oldmeldrum",
+      "path": "selfstorageaberdeenshire/selfstorageoldmeldrum/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "peterhead",
+      "path": "selfstorageaberdeenshire/selfstoragepeterhead/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "portlethen",
+      "path": "selfstorageaberdeenshire/selfstorageportlethen/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "stonehaven",
+      "path": "selfstorageaberdeenshire/selfstoragestonehaven/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "turriff",
+      "path": "selfstorageaberdeenshire/selfstorageturriff/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "westhill",
+      "path": "selfstorageaberdeenshire/selfstoragewesthill/index.html",
+      "region": "aberdeenshire"
+    },
+    {
+      "name": "arbroath",
+      "path": "selfstorageangus/selfstoragearbroath/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "brechin",
+      "path": "selfstorageangus/selfstoragebrechin/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "carnoustie",
+      "path": "selfstorageangus/selfstoragecarnoustie/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "forfar",
+      "path": "selfstorageangus/selfstorageforfar/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "kirriemuir",
+      "path": "selfstorageangus/selfstoragekirriemuir/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "monifieth",
+      "path": "selfstorageangus/selfstoragemonifieth/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "montrose",
+      "path": "selfstorageangus/selfstoragemontrose/index.html",
+      "region": "angus"
+    },
+    {
+      "name": "campbeltown",
+      "path": "selfstorageargyll-and-bute/selfstoragecampbeltown/index.html",
+      "region": "argyll-and-bute"
+    },
+    {
+      "name": "dunoon",
+      "path": "selfstorageargyll-and-bute/selfstoragedunoon/index.html",
+      "region": "argyll-and-bute"
+    },
+    {
+      "name": "helensburgh",
+      "path": "selfstorageargyll-and-bute/selfstoragehelensburgh/index.html",
+      "region": "argyll-and-bute"
+    },
+    {
+      "name": "oban",
+      "path": "selfstorageargyll-and-bute/selfstorageoban/index.html",
+      "region": "argyll-and-bute"
+    },
+    {
+      "name": "rothesay",
+      "path": "selfstorageargyll-and-bute/selfstoragerothesay/index.html",
+      "region": "argyll-and-bute"
+    },
+    {
+      "name": "ampthill",
+      "path": "selfstoragebedfordshire/selfstorageampthill/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "arlesey",
+      "path": "selfstoragebedfordshire/selfstoragearlesey/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "bedford",
+      "path": "selfstoragebedfordshire/selfstoragebedford/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "biggleswade",
+      "path": "selfstoragebedfordshire/selfstoragebiggleswade/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "dunstable",
+      "path": "selfstoragebedfordshire/selfstoragedunstable/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "flitwick",
+      "path": "selfstoragebedfordshire/selfstorageflitwick/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "houghton-regis",
+      "path": "selfstoragebedfordshire/selfstoragehoughton-regis/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "kempston",
+      "path": "selfstoragebedfordshire/selfstoragekempston/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "leighton-buzzard",
+      "path": "selfstoragebedfordshire/selfstorageleighton-buzzard/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "linslade",
+      "path": "selfstoragebedfordshire/selfstoragelinslade/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "luton",
+      "path": "selfstoragebedfordshire/selfstorageluton/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "potton",
+      "path": "selfstoragebedfordshire/selfstoragepotton/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "sandy",
+      "path": "selfstoragebedfordshire/selfstoragesandy/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "shefford",
+      "path": "selfstoragebedfordshire/selfstorageshefford/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "stotfold",
+      "path": "selfstoragebedfordshire/selfstoragestotfold/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "wixams",
+      "path": "selfstoragebedfordshire/selfstoragewixams/index.html",
+      "region": "bedfordshire"
+    },
+    {
+      "name": "bracknell",
+      "path": "selfstorageberkshire/selfstoragebracknell/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "crowthorne",
+      "path": "selfstorageberkshire/selfstoragecrowthorne/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "eton",
+      "path": "selfstorageberkshire/selfstorageeton/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "hungerford",
+      "path": "selfstorageberkshire/selfstoragehungerford/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "maidenhead",
+      "path": "selfstorageberkshire/selfstoragemaidenhead/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "newbury",
+      "path": "selfstorageberkshire/selfstoragenewbury/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "reading",
+      "path": "selfstorageberkshire/selfstoragereading/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "sandhurst",
+      "path": "selfstorageberkshire/selfstoragesandhurst/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "slough",
+      "path": "selfstorageberkshire/selfstorageslough/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "thatcham",
+      "path": "selfstorageberkshire/selfstoragethatcham/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "windsor",
+      "path": "selfstorageberkshire/selfstoragewindsor/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "wokingham",
+      "path": "selfstorageberkshire/selfstoragewokingham/index.html",
+      "region": "berkshire"
+    },
+    {
+      "name": "bristol",
+      "path": "selfstoragebristol/selfstoragebristol/index.html",
+      "region": "bristol"
+    },
+    {
+      "name": "amersham",
+      "path": "selfstoragebuckinghamshire/selfstorageamersham/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "aylesbury",
+      "path": "selfstoragebuckinghamshire/selfstorageaylesbury/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "beaconsfield",
+      "path": "selfstoragebuckinghamshire/selfstoragebeaconsfield/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "buckingham",
+      "path": "selfstoragebuckinghamshire/selfstoragebuckingham/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "chesham",
+      "path": "selfstoragebuckinghamshire/selfstoragechesham/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "gerrards-cross",
+      "path": "selfstoragebuckinghamshire/selfstoragegerrards-cross/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "hazlemere",
+      "path": "selfstoragebuckinghamshire/selfstoragehazlemere/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "high-wycombe",
+      "path": "selfstoragebuckinghamshire/selfstoragehigh-wycombe/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "milton-keynes",
+      "path": "selfstoragebuckinghamshire/selfstoragemilton-keynes/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "olney",
+      "path": "selfstoragebuckinghamshire/selfstorageolney/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "princes-risborough",
+      "path": "selfstoragebuckinghamshire/selfstorageprinces-risborough/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "wendover",
+      "path": "selfstoragebuckinghamshire/selfstoragewendover/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "winslow",
+      "path": "selfstoragebuckinghamshire/selfstoragewinslow/index.html",
+      "region": "buckinghamshire"
+    },
+    {
+      "name": "cambridge",
+      "path": "selfstoragecambridgeshire/selfstoragecambridge/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "chatteris",
+      "path": "selfstoragecambridgeshire/selfstoragechatteris/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "ely",
+      "path": "selfstoragecambridgeshire/selfstorageely/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "huntingdon",
+      "path": "selfstoragecambridgeshire/selfstoragehuntingdon/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "march",
+      "path": "selfstoragecambridgeshire/selfstoragemarch/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "peterborough",
+      "path": "selfstoragecambridgeshire/selfstoragepeterborough/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "ramsey",
+      "path": "selfstoragecambridgeshire/selfstorageramsey/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "sawtry",
+      "path": "selfstoragecambridgeshire/selfstoragesawtry/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "soham",
+      "path": "selfstoragecambridgeshire/selfstoragesoham/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "st-ives",
+      "path": "selfstoragecambridgeshire/selfstoragest-ives/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "st-neots",
+      "path": "selfstoragecambridgeshire/selfstoragest-neots/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "whittlesey",
+      "path": "selfstoragecambridgeshire/selfstoragewhittlesey/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "wisbech",
+      "path": "selfstoragecambridgeshire/selfstoragewisbech/index.html",
+      "region": "cambridgeshire"
+    },
+    {
+      "name": "alsager",
+      "path": "selfstoragecheshire/selfstoragealsager/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "bollington",
+      "path": "selfstoragecheshire/selfstoragebollington/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "chester",
+      "path": "selfstoragecheshire/selfstoragechester/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "congleton",
+      "path": "selfstoragecheshire/selfstoragecongleton/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "crewe",
+      "path": "selfstoragecheshire/selfstoragecrewe/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "ellesmere-port",
+      "path": "selfstoragecheshire/selfstorageellesmere-port/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "frodsham",
+      "path": "selfstoragecheshire/selfstoragefrodsham/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "handforth",
+      "path": "selfstoragecheshire/selfstoragehandforth/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "knutsford",
+      "path": "selfstoragecheshire/selfstorageknutsford/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "macclesfield",
+      "path": "selfstoragecheshire/selfstoragemacclesfield/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "middlewich",
+      "path": "selfstoragecheshire/selfstoragemiddlewich/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "nantwich",
+      "path": "selfstoragecheshire/selfstoragenantwich/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "neston",
+      "path": "selfstoragecheshire/selfstorageneston/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "northwich",
+      "path": "selfstoragecheshire/selfstoragenorthwich/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "poynton",
+      "path": "selfstoragecheshire/selfstoragepoynton/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "runcorn",
+      "path": "selfstoragecheshire/selfstorageruncorn/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "sandbach",
+      "path": "selfstoragecheshire/selfstoragesandbach/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "warrington",
+      "path": "selfstoragecheshire/selfstoragewarrington/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "widnes",
+      "path": "selfstoragecheshire/selfstoragewidnes/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "wilmslow",
+      "path": "selfstoragecheshire/selfstoragewilmslow/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "winsford",
+      "path": "selfstoragecheshire/selfstoragewinsford/index.html",
+      "region": "cheshire"
+    },
+    {
+      "name": "edinburgh",
+      "path": "selfstoragecity-of-edinburgh/selfstorageedinburgh/index.html",
+      "region": "city-of-edinburgh"
+    },
+    {
+      "name": "london",
+      "path": "selfstoragecity-of-london/selfstoragelondon/index.html",
+      "region": "city-of-london"
+    },
+    {
+      "name": "alloa",
+      "path": "selfstorageclackmannanshire/selfstoragealloa/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "alva",
+      "path": "selfstorageclackmannanshire/selfstoragealva/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "clackmannan",
+      "path": "selfstorageclackmannanshire/selfstorageclackmannan/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "dollar",
+      "path": "selfstorageclackmannanshire/selfstoragedollar/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "tillicoultry",
+      "path": "selfstorageclackmannanshire/selfstoragetillicoultry/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "tullibody",
+      "path": "selfstorageclackmannanshire/selfstoragetullibody/index.html",
+      "region": "clackmannanshire"
+    },
+    {
+      "name": "bodmin",
+      "path": "selfstoragecornwall/selfstoragebodmin/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "bude",
+      "path": "selfstoragecornwall/selfstoragebude/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "callington",
+      "path": "selfstoragecornwall/selfstoragecallington/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "camborne",
+      "path": "selfstoragecornwall/selfstoragecamborne/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "camelford",
+      "path": "selfstoragecornwall/selfstoragecamelford/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "falmouth",
+      "path": "selfstoragecornwall/selfstoragefalmouth/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "fowey",
+      "path": "selfstoragecornwall/selfstoragefowey/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "hayle",
+      "path": "selfstoragecornwall/selfstoragehayle/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "helston",
+      "path": "selfstoragecornwall/selfstoragehelston/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "launceston",
+      "path": "selfstoragecornwall/selfstoragelaunceston/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "liskeard",
+      "path": "selfstoragecornwall/selfstorageliskeard/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "looe",
+      "path": "selfstoragecornwall/selfstoragelooe/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "lostwithiel",
+      "path": "selfstoragecornwall/selfstoragelostwithiel/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "marazion",
+      "path": "selfstoragecornwall/selfstoragemarazion/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "newlyn",
+      "path": "selfstoragecornwall/selfstoragenewlyn/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "newquay",
+      "path": "selfstoragecornwall/selfstoragenewquay/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "padstow",
+      "path": "selfstoragecornwall/selfstoragepadstow/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "penryn",
+      "path": "selfstoragecornwall/selfstoragepenryn/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "penzance",
+      "path": "selfstoragecornwall/selfstoragepenzance/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "redruth--it-is-next-to-camborne-also-",
+      "path": "selfstoragecornwall/selfstorageredruth--it-is-next-to-camborne-also-/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "st-austell",
+      "path": "selfstoragecornwall/selfstoragest-austell/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "st-columb",
+      "path": "selfstoragecornwall/selfstoragest-columb/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "st-ives",
+      "path": "selfstoragecornwall/selfstoragest-ives/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "st-just-in-penwith",
+      "path": "selfstoragecornwall/selfstoragest-just-in-penwith/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "torpoint",
+      "path": "selfstoragecornwall/selfstoragetorpoint/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "truro",
+      "path": "selfstoragecornwall/selfstoragetruro/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "wadebridge",
+      "path": "selfstoragecornwall/selfstoragewadebridge/index.html",
+      "region": "cornwall"
+    },
+    {
+      "name": "ambleside",
+      "path": "selfstoragecumbria/selfstorageambleside/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "appleby-in-westmorland",
+      "path": "selfstoragecumbria/selfstorageappleby-in-westmorland/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "aspatria",
+      "path": "selfstoragecumbria/selfstorageaspatria/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "barrow-in-furness",
+      "path": "selfstoragecumbria/selfstoragebarrow-in-furness/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "carlisle",
+      "path": "selfstoragecumbria/selfstoragecarlisle/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "cleator-moor",
+      "path": "selfstoragecumbria/selfstoragecleator-moor/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "cockermouth",
+      "path": "selfstoragecumbria/selfstoragecockermouth/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "egremont",
+      "path": "selfstoragecumbria/selfstorageegremont/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "grange-over-sands",
+      "path": "selfstoragecumbria/selfstoragegrange-over-sands/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "keswick",
+      "path": "selfstoragecumbria/selfstoragekeswick/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "kirkby-lonsdale",
+      "path": "selfstoragecumbria/selfstoragekirkby-lonsdale/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "kirkby-stephen",
+      "path": "selfstoragecumbria/selfstoragekirkby-stephen/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "maryport",
+      "path": "selfstoragecumbria/selfstoragemaryport/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "millom",
+      "path": "selfstoragecumbria/selfstoragemillom/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "penrith",
+      "path": "selfstoragecumbria/selfstoragepenrith/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "sedbergh",
+      "path": "selfstoragecumbria/selfstoragesedbergh/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "ulverston",
+      "path": "selfstoragecumbria/selfstorageulverston/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "whitehaven",
+      "path": "selfstoragecumbria/selfstoragewhitehaven/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "wigton",
+      "path": "selfstoragecumbria/selfstoragewigton/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "windermere",
+      "path": "selfstoragecumbria/selfstoragewindermere/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "workington",
+      "path": "selfstoragecumbria/selfstorageworkington/index.html",
+      "region": "cumbria"
+    },
+    {
+      "name": "alfreton-is-close-to-swanick-and-leabrooks",
+      "path": "selfstoragederbyshire/selfstoragealfreton-is-close-to-swanick-and-leabrooks/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "ashbourne",
+      "path": "selfstoragederbyshire/selfstorageashbourne/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "bakewell",
+      "path": "selfstoragederbyshire/selfstoragebakewell/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "belper",
+      "path": "selfstoragederbyshire/selfstoragebelper/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "bolsover",
+      "path": "selfstoragederbyshire/selfstoragebolsover/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "buxton",
+      "path": "selfstoragederbyshire/selfstoragebuxton/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "chapel-en-le-frith",
+      "path": "selfstoragederbyshire/selfstoragechapel-en-le-frith/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "chesterfield",
+      "path": "selfstoragederbyshire/selfstoragechesterfield/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "clay-cross",
+      "path": "selfstoragederbyshire/selfstorageclay-cross/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "darley-dale",
+      "path": "selfstoragederbyshire/selfstoragedarley-dale/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "derby",
+      "path": "selfstoragederbyshire/selfstoragederby/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "dronfield",
+      "path": "selfstoragederbyshire/selfstoragedronfield/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "eckington",
+      "path": "selfstoragederbyshire/selfstorageeckington/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "glossop",
+      "path": "selfstoragederbyshire/selfstorageglossop/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "ilkeston",
+      "path": "selfstoragederbyshire/selfstorageilkeston/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "matlock",
+      "path": "selfstoragederbyshire/selfstoragematlock/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "melbourne",
+      "path": "selfstoragederbyshire/selfstoragemelbourne/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "new-mills",
+      "path": "selfstoragederbyshire/selfstoragenew-mills/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "ripley",
+      "path": "selfstoragederbyshire/selfstorageripley/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "shirebrook",
+      "path": "selfstoragederbyshire/selfstorageshirebrook/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "staveley",
+      "path": "selfstoragederbyshire/selfstoragestaveley/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "swadlincote",
+      "path": "selfstoragederbyshire/selfstorageswadlincote/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "whaley-bridge",
+      "path": "selfstoragederbyshire/selfstoragewhaley-bridge/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "wirksworth",
+      "path": "selfstoragederbyshire/selfstoragewirksworth/index.html",
+      "region": "derbyshire"
+    },
+    {
+      "name": "ashburton",
+      "path": "selfstoragedevon/selfstorageashburton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "axminster",
+      "path": "selfstoragedevon/selfstorageaxminster/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "barnstaple",
+      "path": "selfstoragedevon/selfstoragebarnstaple/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "bideford",
+      "path": "selfstoragedevon/selfstoragebideford/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "brixham",
+      "path": "selfstoragedevon/selfstoragebrixham/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "buckfastleigh",
+      "path": "selfstoragedevon/selfstoragebuckfastleigh/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "chagford",
+      "path": "selfstoragedevon/selfstoragechagford/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "crediton",
+      "path": "selfstoragedevon/selfstoragecrediton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "cullompton",
+      "path": "selfstoragedevon/selfstoragecullompton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "dartmouth",
+      "path": "selfstoragedevon/selfstoragedartmouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "dawlish",
+      "path": "selfstoragedevon/selfstoragedawlish/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "exeter",
+      "path": "selfstoragedevon/selfstorageexeter/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "exmouth",
+      "path": "selfstoragedevon/selfstorageexmouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "great-torrington",
+      "path": "selfstoragedevon/selfstoragegreat-torrington/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "holsworthy",
+      "path": "selfstoragedevon/selfstorageholsworthy/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "honiton",
+      "path": "selfstoragedevon/selfstoragehoniton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "ilfracombe",
+      "path": "selfstoragedevon/selfstorageilfracombe/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "ivybridge",
+      "path": "selfstoragedevon/selfstorageivybridge/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "kingsbridge",
+      "path": "selfstoragedevon/selfstoragekingsbridge/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "kingsteignton",
+      "path": "selfstoragedevon/selfstoragekingsteignton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "lynton-and-lynmouth",
+      "path": "selfstoragedevon/selfstoragelynton-and-lynmouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "newton-abbot",
+      "path": "selfstoragedevon/selfstoragenewton-abbot/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "okehampton",
+      "path": "selfstoragedevon/selfstorageokehampton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "ottery-st-mary",
+      "path": "selfstoragedevon/selfstorageottery-st-mary/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "paignton",
+      "path": "selfstoragedevon/selfstoragepaignton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "plymouth",
+      "path": "selfstoragedevon/selfstorageplymouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "seaton",
+      "path": "selfstoragedevon/selfstorageseaton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "sidmouth",
+      "path": "selfstoragedevon/selfstoragesidmouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "south-molton",
+      "path": "selfstoragedevon/selfstoragesouth-molton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "tavistock",
+      "path": "selfstoragedevon/selfstoragetavistock/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "teignmouth",
+      "path": "selfstoragedevon/selfstorageteignmouth/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "tiverton",
+      "path": "selfstoragedevon/selfstoragetiverton/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "torquay",
+      "path": "selfstoragedevon/selfstoragetorquay/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "totnes",
+      "path": "selfstoragedevon/selfstoragetotnes/index.html",
+      "region": "devon"
+    },
+    {
+      "name": "beaminster",
+      "path": "selfstoragedorset/selfstoragebeaminster/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "blandford-forum",
+      "path": "selfstoragedorset/selfstorageblandford-forum/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "bournemouth",
+      "path": "selfstoragedorset/selfstoragebournemouth/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "bridport",
+      "path": "selfstoragedorset/selfstoragebridport/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "christchurch",
+      "path": "selfstoragedorset/selfstoragechristchurch/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "dorchester",
+      "path": "selfstoragedorset/selfstoragedorchester/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "gillingham",
+      "path": "selfstoragedorset/selfstoragegillingham/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "lyme-regis",
+      "path": "selfstoragedorset/selfstoragelyme-regis/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "poole",
+      "path": "selfstoragedorset/selfstoragepoole/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "shaftesbury",
+      "path": "selfstoragedorset/selfstorageshaftesbury/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "sherborne",
+      "path": "selfstoragedorset/selfstoragesherborne/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "stalbridge",
+      "path": "selfstoragedorset/selfstoragestalbridge/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "sturminster-newton",
+      "path": "selfstoragedorset/selfstoragesturminster-newton/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "swanage",
+      "path": "selfstoragedorset/selfstorageswanage/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "verwood",
+      "path": "selfstoragedorset/selfstorageverwood/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "weymouth",
+      "path": "selfstoragedorset/selfstorageweymouth/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "wimborne-minster",
+      "path": "selfstoragedorset/selfstoragewimborne-minster/index.html",
+      "region": "dorset"
+    },
+    {
+      "name": "annan",
+      "path": "selfstoragedumfries-and-galloway/selfstorageannan/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "castle-douglas",
+      "path": "selfstoragedumfries-and-galloway/selfstoragecastle-douglas/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "dalbeattie",
+      "path": "selfstoragedumfries-and-galloway/selfstoragedalbeattie/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "dumfries",
+      "path": "selfstoragedumfries-and-galloway/selfstoragedumfries/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "gretna",
+      "path": "selfstoragedumfries-and-galloway/selfstoragegretna/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "kirkcudbright",
+      "path": "selfstoragedumfries-and-galloway/selfstoragekirkcudbright/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "locharbriggs",
+      "path": "selfstoragedumfries-and-galloway/selfstoragelocharbriggs/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "lockerbie",
+      "path": "selfstoragedumfries-and-galloway/selfstoragelockerbie/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "newton-stewart",
+      "path": "selfstoragedumfries-and-galloway/selfstoragenewton-stewart/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "stranraer",
+      "path": "selfstoragedumfries-and-galloway/selfstoragestranraer/index.html",
+      "region": "dumfries-and-galloway"
+    },
+    {
+      "name": "dundee",
+      "path": "selfstoragedundee-city/selfstoragedundee/index.html",
+      "region": "dundee-city"
+    },
+    {
+      "name": "barnard-castle",
+      "path": "selfstoragedurham/selfstoragebarnard-castle/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "billingham",
+      "path": "selfstoragedurham/selfstoragebillingham/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "bishop-auckland",
+      "path": "selfstoragedurham/selfstoragebishop-auckland/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "chester-le-street--nothing-inthe-actual-area-",
+      "path": "selfstoragedurham/selfstoragechester-le-street--nothing-inthe-actual-area-/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "consett",
+      "path": "selfstoragedurham/selfstorageconsett/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "crook",
+      "path": "selfstoragedurham/selfstoragecrook/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "darlington",
+      "path": "selfstoragedurham/selfstoragedarlington/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "ferryhill",
+      "path": "selfstoragedurham/selfstorageferryhill/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "newton-aycliffe",
+      "path": "selfstoragedurham/selfstoragenewton-aycliffe/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "peterlee",
+      "path": "selfstoragedurham/selfstoragepeterlee/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "seaham",
+      "path": "selfstoragedurham/selfstorageseaham/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "sedgefield",
+      "path": "selfstoragedurham/selfstoragesedgefield/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "shildon",
+      "path": "selfstoragedurham/selfstorageshildon/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "spennymoor",
+      "path": "selfstoragedurham/selfstoragespennymoor/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "stanley",
+      "path": "selfstoragedurham/selfstoragestanley/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "stockton-on-tees",
+      "path": "selfstoragedurham/selfstoragestockton-on-tees/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "tow-law",
+      "path": "selfstoragedurham/selfstoragetow-law/index.html",
+      "region": "durham"
+    },
+    {
+      "name": "auchinleck",
+      "path": "selfstorageeast-ayrshire/selfstorageauchinleck/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "catrine",
+      "path": "selfstorageeast-ayrshire/selfstoragecatrine/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "cumnock",
+      "path": "selfstorageeast-ayrshire/selfstoragecumnock/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "dalmellington",
+      "path": "selfstorageeast-ayrshire/selfstoragedalmellington/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "darvel",
+      "path": "selfstorageeast-ayrshire/selfstoragedarvel/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "galston",
+      "path": "selfstorageeast-ayrshire/selfstoragegalston/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "hurlford",
+      "path": "selfstorageeast-ayrshire/selfstoragehurlford/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "kilmarnock",
+      "path": "selfstorageeast-ayrshire/selfstoragekilmarnock/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "kilmaurs",
+      "path": "selfstorageeast-ayrshire/selfstoragekilmaurs/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "mauchline",
+      "path": "selfstorageeast-ayrshire/selfstoragemauchline/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "muirkirk",
+      "path": "selfstorageeast-ayrshire/selfstoragemuirkirk/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "newmilns",
+      "path": "selfstorageeast-ayrshire/selfstoragenewmilns/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "stewarton",
+      "path": "selfstorageeast-ayrshire/selfstoragestewarton/index.html",
+      "region": "east-ayrshire"
+    },
+    {
+      "name": "bearsden",
+      "path": "selfstorageeast-dunbartonshire/selfstoragebearsden/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "bishopbriggs",
+      "path": "selfstorageeast-dunbartonshire/selfstoragebishopbriggs/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "kirkintilloch",
+      "path": "selfstorageeast-dunbartonshire/selfstoragekirkintilloch/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "lenzie",
+      "path": "selfstorageeast-dunbartonshire/selfstoragelenzie/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "milngavie",
+      "path": "selfstorageeast-dunbartonshire/selfstoragemilngavie/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "torrance",
+      "path": "selfstorageeast-dunbartonshire/selfstoragetorrance/index.html",
+      "region": "east-dunbartonshire"
+    },
+    {
+      "name": "cockenzie",
+      "path": "selfstorageeast-lothian/selfstoragecockenzie/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "dunbar",
+      "path": "selfstorageeast-lothian/selfstoragedunbar/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "east-linton",
+      "path": "selfstorageeast-lothian/selfstorageeast-linton/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "gullane",
+      "path": "selfstorageeast-lothian/selfstoragegullane/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "haddington",
+      "path": "selfstorageeast-lothian/selfstoragehaddington/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "longniddry",
+      "path": "selfstorageeast-lothian/selfstoragelongniddry/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "musselburgh",
+      "path": "selfstorageeast-lothian/selfstoragemusselburgh/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "north-berwick",
+      "path": "selfstorageeast-lothian/selfstoragenorth-berwick/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "prestonpans",
+      "path": "selfstorageeast-lothian/selfstorageprestonpans/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "tranent",
+      "path": "selfstorageeast-lothian/selfstoragetranent/index.html",
+      "region": "east-lothian"
+    },
+    {
+      "name": "barrhead",
+      "path": "selfstorageeast-renfrewshire/selfstoragebarrhead/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "busby",
+      "path": "selfstorageeast-renfrewshire/selfstoragebusby/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "clarkston",
+      "path": "selfstorageeast-renfrewshire/selfstorageclarkston/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "eaglesham",
+      "path": "selfstorageeast-renfrewshire/selfstorageeaglesham/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "giffnock",
+      "path": "selfstorageeast-renfrewshire/selfstoragegiffnock/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "neilston",
+      "path": "selfstorageeast-renfrewshire/selfstorageneilston/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "newton-mearns",
+      "path": "selfstorageeast-renfrewshire/selfstoragenewton-mearns/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "thornliebank",
+      "path": "selfstorageeast-renfrewshire/selfstoragethornliebank/index.html",
+      "region": "east-renfrewshire"
+    },
+    {
+      "name": "battle",
+      "path": "selfstorageeast-sussex/selfstoragebattle/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "brighton",
+      "path": "selfstorageeast-sussex/selfstoragebrighton/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "crowborough",
+      "path": "selfstorageeast-sussex/selfstoragecrowborough/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "eastbourne",
+      "path": "selfstorageeast-sussex/selfstorageeastbourne/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "hailsham",
+      "path": "selfstorageeast-sussex/selfstoragehailsham/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "hastings",
+      "path": "selfstorageeast-sussex/selfstoragehastings/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "heathfield",
+      "path": "selfstorageeast-sussex/selfstorageheathfield/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "lewes",
+      "path": "selfstorageeast-sussex/selfstoragelewes/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "newhaven",
+      "path": "selfstorageeast-sussex/selfstoragenewhaven/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "peacehaven",
+      "path": "selfstorageeast-sussex/selfstoragepeacehaven/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "polegate",
+      "path": "selfstorageeast-sussex/selfstoragepolegate/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "rye",
+      "path": "selfstorageeast-sussex/selfstoragerye/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "seaford",
+      "path": "selfstorageeast-sussex/selfstorageseaford/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "uckfield",
+      "path": "selfstorageeast-sussex/selfstorageuckfield/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "wadhurst",
+      "path": "selfstorageeast-sussex/selfstoragewadhurst/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "winchelsea",
+      "path": "selfstorageeast-sussex/selfstoragewinchelsea/index.html",
+      "region": "east-sussex"
+    },
+    {
+      "name": "anlaby",
+      "path": "selfstorageeast-yorkshire/selfstorageanlaby/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "beverley",
+      "path": "selfstorageeast-yorkshire/selfstoragebeverley/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "bridlington",
+      "path": "selfstorageeast-yorkshire/selfstoragebridlington/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "driffield",
+      "path": "selfstorageeast-yorkshire/selfstoragedriffield/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "goole",
+      "path": "selfstorageeast-yorkshire/selfstoragegoole/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "hedon",
+      "path": "selfstorageeast-yorkshire/selfstoragehedon/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "hessle",
+      "path": "selfstorageeast-yorkshire/selfstoragehessle/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "hornsea",
+      "path": "selfstorageeast-yorkshire/selfstoragehornsea/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "howden",
+      "path": "selfstorageeast-yorkshire/selfstoragehowden/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "kingston-upon-hull--hull-",
+      "path": "selfstorageeast-yorkshire/selfstoragekingston-upon-hull--hull-/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "market-weighton",
+      "path": "selfstorageeast-yorkshire/selfstoragemarket-weighton/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "pocklington",
+      "path": "selfstorageeast-yorkshire/selfstoragepocklington/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "willerby",
+      "path": "selfstorageeast-yorkshire/selfstoragewillerby/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "withernsea",
+      "path": "selfstorageeast-yorkshire/selfstoragewithernsea/index.html",
+      "region": "east-yorkshire"
+    },
+    {
+      "name": "balivanich",
+      "path": "selfstorageeilean-siar--western-isles-/selfstoragebalivanich/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "castlebay",
+      "path": "selfstorageeilean-siar--western-isles-/selfstoragecastlebay/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "leverburgh",
+      "path": "selfstorageeilean-siar--western-isles-/selfstorageleverburgh/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "lochmaddy",
+      "path": "selfstorageeilean-siar--western-isles-/selfstoragelochmaddy/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "stornoway",
+      "path": "selfstorageeilean-siar--western-isles-/selfstoragestornoway/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "tarbert",
+      "path": "selfstorageeilean-siar--western-isles-/selfstoragetarbert/index.html",
+      "region": "eilean-siar--western-isles-"
+    },
+    {
+      "name": "aveley",
+      "path": "selfstorageessex/selfstorageaveley/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "basildon",
+      "path": "selfstorageessex/selfstoragebasildon/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "billericay",
+      "path": "selfstorageessex/selfstoragebillericay/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "braintree",
+      "path": "selfstorageessex/selfstoragebraintree/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "brentwood--essex-town-",
+      "path": "selfstorageessex/selfstoragebrentwood--essex-town-/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "brightlingsea",
+      "path": "selfstorageessex/selfstoragebrightlingsea/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "burnham-on-crouch",
+      "path": "selfstorageessex/selfstorageburnham-on-crouch/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "canvey-island",
+      "path": "selfstorageessex/selfstoragecanvey-island/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "chelmsford",
+      "path": "selfstorageessex/selfstoragechelmsford/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "chigwell",
+      "path": "selfstorageessex/selfstoragechigwell/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "clacton-on-sea",
+      "path": "selfstorageessex/selfstorageclacton-on-sea/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "coggeshall",
+      "path": "selfstorageessex/selfstoragecoggeshall/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "colchester--town-",
+      "path": "selfstorageessex/selfstoragecolchester--town-/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "corringham",
+      "path": "selfstorageessex/selfstoragecorringham/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "epping",
+      "path": "selfstorageessex/selfstorageepping/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "grays",
+      "path": "selfstorageessex/selfstoragegrays/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "great-dunmow",
+      "path": "selfstorageessex/selfstoragegreat-dunmow/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "hadleigh",
+      "path": "selfstorageessex/selfstoragehadleigh/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "halstead",
+      "path": "selfstorageessex/selfstoragehalstead/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "harlow",
+      "path": "selfstorageessex/selfstorageharlow/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "harwich",
+      "path": "selfstorageessex/selfstorageharwich/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "loughton",
+      "path": "selfstorageessex/selfstorageloughton/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "maldon",
+      "path": "selfstorageessex/selfstoragemaldon/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "north-benfleet",
+      "path": "selfstorageessex/selfstoragenorth-benfleet/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "purfleet",
+      "path": "selfstorageessex/selfstoragepurfleet/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "rayleigh",
+      "path": "selfstorageessex/selfstoragerayleigh/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "saffron-walden",
+      "path": "selfstorageessex/selfstoragesaffron-walden/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "southend-on-sea--town-",
+      "path": "selfstorageessex/selfstoragesouthend-on-sea--town-/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "thaxted",
+      "path": "selfstorageessex/selfstoragethaxted/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "tilbury",
+      "path": "selfstorageessex/selfstoragetilbury/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "waltham-abbey",
+      "path": "selfstorageessex/selfstoragewaltham-abbey/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "walton-on-the-naze",
+      "path": "selfstorageessex/selfstoragewalton-on-the-naze/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "west-mersea",
+      "path": "selfstorageessex/selfstoragewest-mersea/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "witham",
+      "path": "selfstorageessex/selfstoragewitham/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "wivenhoe",
+      "path": "selfstorageessex/selfstoragewivenhoe/index.html",
+      "region": "essex"
+    },
+    {
+      "name": "bo-ness--bo-ness-and-kinneil-",
+      "path": "selfstoragefalkirk/selfstoragebo-ness--bo-ness-and-kinneil-/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "bonnybridge",
+      "path": "selfstoragefalkirk/selfstoragebonnybridge/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "denny",
+      "path": "selfstoragefalkirk/selfstoragedenny/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "falkirk",
+      "path": "selfstoragefalkirk/selfstoragefalkirk/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "grangemouth",
+      "path": "selfstoragefalkirk/selfstoragegrangemouth/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "larbert",
+      "path": "selfstoragefalkirk/selfstoragelarbert/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "polmont",
+      "path": "selfstoragefalkirk/selfstoragepolmont/index.html",
+      "region": "falkirk"
+    },
+    {
+      "name": "anstruther",
+      "path": "selfstoragefife/selfstorageanstruther/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "burntisland",
+      "path": "selfstoragefife/selfstorageburntisland/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "cowdenbeath",
+      "path": "selfstoragefife/selfstoragecowdenbeath/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "cupar",
+      "path": "selfstoragefife/selfstoragecupar/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "dunfermline",
+      "path": "selfstoragefife/selfstoragedunfermline/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "glenrothes",
+      "path": "selfstoragefife/selfstorageglenrothes/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "inverkeithing",
+      "path": "selfstoragefife/selfstorageinverkeithing/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "kirkcaldy",
+      "path": "selfstoragefife/selfstoragekirkcaldy/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "leven",
+      "path": "selfstoragefife/selfstorageleven/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "lochgelly",
+      "path": "selfstoragefife/selfstoragelochgelly/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "methil",
+      "path": "selfstoragefife/selfstoragemethil/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "newport-on-tay",
+      "path": "selfstoragefife/selfstoragenewport-on-tay/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "rosyth",
+      "path": "selfstoragefife/selfstoragerosyth/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "st-andrews",
+      "path": "selfstoragefife/selfstoragest-andrews/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "tayport",
+      "path": "selfstoragefife/selfstoragetayport/index.html",
+      "region": "fife"
+    },
+    {
+      "name": "glasgow",
+      "path": "selfstorageglasgow-city/selfstorageglasgow/index.html",
+      "region": "glasgow-city"
+    },
+    {
+      "name": "berkeley",
+      "path": "selfstoragegloucestershire/selfstorageberkeley/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "bradley-stoke",
+      "path": "selfstoragegloucestershire/selfstoragebradley-stoke/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "cheltenham",
+      "path": "selfstoragegloucestershire/selfstoragecheltenham/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "chipping-campden",
+      "path": "selfstoragegloucestershire/selfstoragechipping-campden/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "chipping-sodbury",
+      "path": "selfstoragegloucestershire/selfstoragechipping-sodbury/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "cinderford",
+      "path": "selfstoragegloucestershire/selfstoragecinderford/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "cirencester",
+      "path": "selfstoragegloucestershire/selfstoragecirencester/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "coleford",
+      "path": "selfstoragegloucestershire/selfstoragecoleford/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "dursley",
+      "path": "selfstoragegloucestershire/selfstoragedursley/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "emersons-green",
+      "path": "selfstoragegloucestershire/selfstorageemersons-green/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "fairford",
+      "path": "selfstoragegloucestershire/selfstoragefairford/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "filton",
+      "path": "selfstoragegloucestershire/selfstoragefilton/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "gloucester",
+      "path": "selfstoragegloucestershire/selfstoragegloucester/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "kingswood",
+      "path": "selfstoragegloucestershire/selfstoragekingswood/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "lechlade-on-thames",
+      "path": "selfstoragegloucestershire/selfstoragelechlade-on-thames/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "lydney",
+      "path": "selfstoragegloucestershire/selfstoragelydney/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "minchinhampton",
+      "path": "selfstoragegloucestershire/selfstorageminchinhampton/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "mitcheldean",
+      "path": "selfstoragegloucestershire/selfstoragemitcheldean/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "moreton-in-marsh",
+      "path": "selfstoragegloucestershire/selfstoragemoreton-in-marsh/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "nailsworth",
+      "path": "selfstoragegloucestershire/selfstoragenailsworth/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "newent",
+      "path": "selfstoragegloucestershire/selfstoragenewent/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "northleach",
+      "path": "selfstoragegloucestershire/selfstoragenorthleach/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "painswick",
+      "path": "selfstoragegloucestershire/selfstoragepainswick/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "patchway",
+      "path": "selfstoragegloucestershire/selfstoragepatchway/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "quedgeley",
+      "path": "selfstoragegloucestershire/selfstoragequedgeley/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "stonehouse",
+      "path": "selfstoragegloucestershire/selfstoragestonehouse/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "stow-on-the-wold",
+      "path": "selfstoragegloucestershire/selfstoragestow-on-the-wold/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "stroud",
+      "path": "selfstoragegloucestershire/selfstoragestroud/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "tewkesbury",
+      "path": "selfstoragegloucestershire/selfstoragetewkesbury/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "thornbury",
+      "path": "selfstoragegloucestershire/selfstoragethornbury/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "winchcombe",
+      "path": "selfstoragegloucestershire/selfstoragewinchcombe/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "wotton-under-edge",
+      "path": "selfstoragegloucestershire/selfstoragewotton-under-edge/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "yate",
+      "path": "selfstoragegloucestershire/selfstorageyate/index.html",
+      "region": "gloucestershire"
+    },
+    {
+      "name": "brentford",
+      "path": "selfstoragegreater-london/selfstoragebrentford/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "carshalton",
+      "path": "selfstoragegreater-london/selfstoragecarshalton/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "coulsdon",
+      "path": "selfstoragegreater-london/selfstoragecoulsdon/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "croydon",
+      "path": "selfstoragegreater-london/selfstoragecroydon/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "dagenham",
+      "path": "selfstoragegreater-london/selfstoragedagenham/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "enfield",
+      "path": "selfstoragegreater-london/selfstorageenfield/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "harrow",
+      "path": "selfstoragegreater-london/selfstorageharrow/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "hayes",
+      "path": "selfstoragegreater-london/selfstoragehayes/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "holloway",
+      "path": "selfstoragegreater-london/selfstorageholloway/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "hounslow",
+      "path": "selfstoragegreater-london/selfstoragehounslow/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "ilford",
+      "path": "selfstoragegreater-london/selfstorageilford/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "northolt",
+      "path": "selfstoragegreater-london/selfstoragenortholt/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "orpington",
+      "path": "selfstoragegreater-london/selfstorageorpington/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "romford",
+      "path": "selfstoragegreater-london/selfstorageromford/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "ruislip",
+      "path": "selfstoragegreater-london/selfstorageruislip/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "southall",
+      "path": "selfstoragegreater-london/selfstoragesouthall/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "sutton",
+      "path": "selfstoragegreater-london/selfstoragesutton/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "twickenham",
+      "path": "selfstoragegreater-london/selfstoragetwickenham/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "upminster",
+      "path": "selfstoragegreater-london/selfstorageupminster/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "uxbridge",
+      "path": "selfstoragegreater-london/selfstorageuxbridge/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "wembley",
+      "path": "selfstoragegreater-london/selfstoragewembley/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "west-drayton",
+      "path": "selfstoragegreater-london/selfstoragewest-drayton/index.html",
+      "region": "greater-london"
+    },
+    {
+      "name": "altrincham",
+      "path": "selfstoragegreater-manchester/selfstoragealtrincham/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "ashton-in-makerfield",
+      "path": "selfstoragegreater-manchester/selfstorageashton-in-makerfield/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "ashton-under-lyne",
+      "path": "selfstoragegreater-manchester/selfstorageashton-under-lyne/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "atherton",
+      "path": "selfstoragegreater-manchester/selfstorageatherton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "bolton",
+      "path": "selfstoragegreater-manchester/selfstoragebolton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "bury",
+      "path": "selfstoragegreater-manchester/selfstoragebury/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "chadderton-doesnt-seem-to-be-a-lot-of-internet-presence",
+      "path": "selfstoragegreater-manchester/selfstoragechadderton-doesnt-seem-to-be-a-lot-of-internet-presence/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "cheadle",
+      "path": "selfstoragegreater-manchester/selfstoragecheadle/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "cheadle-hulme",
+      "path": "selfstoragegreater-manchester/selfstoragecheadle-hulme/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "droylsden",
+      "path": "selfstoragegreater-manchester/selfstoragedroylsden/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "dukinfield",
+      "path": "selfstoragegreater-manchester/selfstoragedukinfield/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "eccles",
+      "path": "selfstoragegreater-manchester/selfstorageeccles/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "farnworth",
+      "path": "selfstoragegreater-manchester/selfstoragefarnworth/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "heywood",
+      "path": "selfstoragegreater-manchester/selfstorageheywood/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "horwich",
+      "path": "selfstoragegreater-manchester/selfstoragehorwich/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "hyde",
+      "path": "selfstoragegreater-manchester/selfstoragehyde/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "leigh",
+      "path": "selfstoragegreater-manchester/selfstorageleigh/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "littleborough",
+      "path": "selfstoragegreater-manchester/selfstoragelittleborough/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "manchester",
+      "path": "selfstoragegreater-manchester/selfstoragemanchester/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "marple",
+      "path": "selfstoragegreater-manchester/selfstoragemarple/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "middleton",
+      "path": "selfstoragegreater-manchester/selfstoragemiddleton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "oldham",
+      "path": "selfstoragegreater-manchester/selfstorageoldham/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "prestwich",
+      "path": "selfstoragegreater-manchester/selfstorageprestwich/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "radcliffe",
+      "path": "selfstoragegreater-manchester/selfstorageradcliffe/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "ramsbottom",
+      "path": "selfstoragegreater-manchester/selfstorageramsbottom/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "rochdale",
+      "path": "selfstoragegreater-manchester/selfstoragerochdale/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "sale",
+      "path": "selfstoragegreater-manchester/selfstoragesale/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "salford",
+      "path": "selfstoragegreater-manchester/selfstoragesalford/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "shaw-and-crompton",
+      "path": "selfstoragegreater-manchester/selfstorageshaw-and-crompton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "stalybridge",
+      "path": "selfstoragegreater-manchester/selfstoragestalybridge/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "stockport",
+      "path": "selfstoragegreater-manchester/selfstoragestockport/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "stretford",
+      "path": "selfstoragegreater-manchester/selfstoragestretford/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "swinton",
+      "path": "selfstoragegreater-manchester/selfstorageswinton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "tyldesley",
+      "path": "selfstoragegreater-manchester/selfstoragetyldesley/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "westhoughton",
+      "path": "selfstoragegreater-manchester/selfstoragewesthoughton/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "whitefield",
+      "path": "selfstoragegreater-manchester/selfstoragewhitefield/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "wigan",
+      "path": "selfstoragegreater-manchester/selfstoragewigan/index.html",
+      "region": "greater-manchester"
+    },
+    {
+      "name": "aldershot",
+      "path": "selfstoragehampshire/selfstoragealdershot/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "alton",
+      "path": "selfstoragehampshire/selfstoragealton/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "andover",
+      "path": "selfstoragehampshire/selfstorageandover/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "basingstoke",
+      "path": "selfstoragehampshire/selfstoragebasingstoke/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "bordon",
+      "path": "selfstoragehampshire/selfstoragebordon/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "eastleigh",
+      "path": "selfstoragehampshire/selfstorageeastleigh/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "fareham",
+      "path": "selfstoragehampshire/selfstoragefareham/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "farnborough",
+      "path": "selfstoragehampshire/selfstoragefarnborough/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "gosport",
+      "path": "selfstoragehampshire/selfstoragegosport/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "havant-good-and-has-surrounding-areas-with-no-storage",
+      "path": "selfstoragehampshire/selfstoragehavant-good-and-has-surrounding-areas-with-no-storage/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "hedge-end",
+      "path": "selfstoragehampshire/selfstoragehedge-end/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "lymington",
+      "path": "selfstoragehampshire/selfstoragelymington/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "new-alresford",
+      "path": "selfstoragehampshire/selfstoragenew-alresford/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "new-milton",
+      "path": "selfstoragehampshire/selfstoragenew-milton/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "petersfield",
+      "path": "selfstoragehampshire/selfstoragepetersfield/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "portsmouth",
+      "path": "selfstoragehampshire/selfstorageportsmouth/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "ringwood",
+      "path": "selfstoragehampshire/selfstorageringwood/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "romsey",
+      "path": "selfstoragehampshire/selfstorageromsey/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "southampton",
+      "path": "selfstoragehampshire/selfstoragesouthampton/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "stockbridge",
+      "path": "selfstoragehampshire/selfstoragestockbridge/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "tadley",
+      "path": "selfstoragehampshire/selfstoragetadley/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "waterlooville-and-surrounding-areas",
+      "path": "selfstoragehampshire/selfstoragewaterlooville-and-surrounding-areas/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "whitchurch",
+      "path": "selfstoragehampshire/selfstoragewhitchurch/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "winchester",
+      "path": "selfstoragehampshire/selfstoragewinchester/index.html",
+      "region": "hampshire"
+    },
+    {
+      "name": "bromyard",
+      "path": "selfstorageherefordshire/selfstoragebromyard/index.html",
+      "region": "herefordshire"
+    },
+    {
+      "name": "hereford",
+      "path": "selfstorageherefordshire/selfstoragehereford/index.html",
+      "region": "herefordshire"
+    },
+    {
+      "name": "ledbury",
+      "path": "selfstorageherefordshire/selfstorageledbury/index.html",
+      "region": "herefordshire"
+    },
+    {
+      "name": "leominster",
+      "path": "selfstorageherefordshire/selfstorageleominster/index.html",
+      "region": "herefordshire"
+    },
+    {
+      "name": "ross-on-wye",
+      "path": "selfstorageherefordshire/selfstorageross-on-wye/index.html",
+      "region": "herefordshire"
+    },
+    {
+      "name": "baldock",
+      "path": "selfstoragehertfordshire/selfstoragebaldock/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "berkhamsted",
+      "path": "selfstoragehertfordshire/selfstorageberkhamsted/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "bishop-s-stortford",
+      "path": "selfstoragehertfordshire/selfstoragebishop-s-stortford/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "borehamwood",
+      "path": "selfstoragehertfordshire/selfstorageborehamwood/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "broxbourne",
+      "path": "selfstoragehertfordshire/selfstoragebroxbourne/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "cheshunt",
+      "path": "selfstoragehertfordshire/selfstoragecheshunt/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "harpenden",
+      "path": "selfstoragehertfordshire/selfstorageharpenden/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "hatfield",
+      "path": "selfstoragehertfordshire/selfstoragehatfield/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "hemel-hempstead",
+      "path": "selfstoragehertfordshire/selfstoragehemel-hempstead/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "hertford",
+      "path": "selfstoragehertfordshire/selfstoragehertford/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "hitchin",
+      "path": "selfstoragehertfordshire/selfstoragehitchin/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "hoddesdon",
+      "path": "selfstoragehertfordshire/selfstoragehoddesdon/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "letchworth",
+      "path": "selfstoragehertfordshire/selfstorageletchworth/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "potters-bar-looks-like-there-is-no-self-storage-only-crate-storage",
+      "path": "selfstoragehertfordshire/selfstoragepotters-bar-looks-like-there-is-no-self-storage-only-crate-storage/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "rickmansworth",
+      "path": "selfstoragehertfordshire/selfstoragerickmansworth/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "royston",
+      "path": "selfstoragehertfordshire/selfstorageroyston/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "sawbridgeworth",
+      "path": "selfstoragehertfordshire/selfstoragesawbridgeworth/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "st-albans",
+      "path": "selfstoragehertfordshire/selfstoragest-albans/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "stevenage",
+      "path": "selfstoragehertfordshire/selfstoragestevenage/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "tring",
+      "path": "selfstoragehertfordshire/selfstoragetring/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "waltham-cross",
+      "path": "selfstoragehertfordshire/selfstoragewaltham-cross/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "ware",
+      "path": "selfstoragehertfordshire/selfstorageware/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "watford",
+      "path": "selfstoragehertfordshire/selfstoragewatford/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "welwyn-garden-city",
+      "path": "selfstoragehertfordshire/selfstoragewelwyn-garden-city/index.html",
+      "region": "hertfordshire"
+    },
+    {
+      "name": "alness",
+      "path": "selfstoragehighland/selfstoragealness/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "aviemore",
+      "path": "selfstoragehighland/selfstorageaviemore/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "dingwall",
+      "path": "selfstoragehighland/selfstoragedingwall/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "fort-william",
+      "path": "selfstoragehighland/selfstoragefort-william/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "grantown-on-spey",
+      "path": "selfstoragehighland/selfstoragegrantown-on-spey/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "inverness",
+      "path": "selfstoragehighland/selfstorageinverness/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "nairn",
+      "path": "selfstoragehighland/selfstoragenairn/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "tain",
+      "path": "selfstoragehighland/selfstoragetain/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "thurso",
+      "path": "selfstoragehighland/selfstoragethurso/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "wick",
+      "path": "selfstoragehighland/selfstoragewick/index.html",
+      "region": "highland"
+    },
+    {
+      "name": "bridge-of-weir",
+      "path": "selfstorageinverclyde/selfstoragebridge-of-weir/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "gourock",
+      "path": "selfstorageinverclyde/selfstoragegourock/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "greenock",
+      "path": "selfstorageinverclyde/selfstoragegreenock/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "inverkip",
+      "path": "selfstorageinverclyde/selfstorageinverkip/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "kilmacolm",
+      "path": "selfstorageinverclyde/selfstoragekilmacolm/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "langbank",
+      "path": "selfstorageinverclyde/selfstoragelangbank/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "port-glasgow",
+      "path": "selfstorageinverclyde/selfstorageport-glasgow/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "quarrier-s-village",
+      "path": "selfstorageinverclyde/selfstoragequarrier-s-village/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "wemyss-bay",
+      "path": "selfstorageinverclyde/selfstoragewemyss-bay/index.html",
+      "region": "inverclyde"
+    },
+    {
+      "name": "brading",
+      "path": "selfstorageisle-of-wight/selfstoragebrading/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "cowes",
+      "path": "selfstorageisle-of-wight/selfstoragecowes/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "east-cowes",
+      "path": "selfstorageisle-of-wight/selfstorageeast-cowes/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "newport",
+      "path": "selfstorageisle-of-wight/selfstoragenewport/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "ryde",
+      "path": "selfstorageisle-of-wight/selfstorageryde/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "yarmouth",
+      "path": "selfstorageisle-of-wight/selfstorageyarmouth/index.html",
+      "region": "isle-of-wight"
+    },
+    {
+      "name": "ashford",
+      "path": "selfstoragekent/selfstorageashford/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "broadstairs",
+      "path": "selfstoragekent/selfstoragebroadstairs/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "bromley",
+      "path": "selfstoragekent/selfstoragebromley/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "canterbury",
+      "path": "selfstoragekent/selfstoragecanterbury/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "chatham",
+      "path": "selfstoragekent/selfstoragechatham/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "cranbrook",
+      "path": "selfstoragekent/selfstoragecranbrook/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "deal",
+      "path": "selfstoragekent/selfstoragedeal/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "dover",
+      "path": "selfstoragekent/selfstoragedover/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "edenbridge",
+      "path": "selfstoragekent/selfstorageedenbridge/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "faversham",
+      "path": "selfstoragekent/selfstoragefaversham/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "folkestone",
+      "path": "selfstoragekent/selfstoragefolkestone/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "gillingham",
+      "path": "selfstoragekent/selfstoragegillingham/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "gravesend",
+      "path": "selfstoragekent/selfstoragegravesend/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "hawkinge",
+      "path": "selfstoragekent/selfstoragehawkinge/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "herne-bay",
+      "path": "selfstoragekent/selfstorageherne-bay/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "hythe",
+      "path": "selfstoragekent/selfstoragehythe/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "kennington",
+      "path": "selfstoragekent/selfstoragekennington/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "maidstone",
+      "path": "selfstoragekent/selfstoragemaidstone/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "margate",
+      "path": "selfstoragekent/selfstoragemargate/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "new-romney",
+      "path": "selfstoragekent/selfstoragenew-romney/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "paddock-wood",
+      "path": "selfstoragekent/selfstoragepaddock-wood/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "ramsgate",
+      "path": "selfstoragekent/selfstorageramsgate/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "rochester",
+      "path": "selfstoragekent/selfstoragerochester/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "sandwich",
+      "path": "selfstoragekent/selfstoragesandwich/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "sevenoaks",
+      "path": "selfstoragekent/selfstoragesevenoaks/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "sheerness",
+      "path": "selfstoragekent/selfstoragesheerness/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "sittingbourne",
+      "path": "selfstoragekent/selfstoragesittingbourne/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "snodland",
+      "path": "selfstoragekent/selfstoragesnodland/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "swanley",
+      "path": "selfstoragekent/selfstorageswanley/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "tenterden",
+      "path": "selfstoragekent/selfstoragetenterden/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "tonbridge",
+      "path": "selfstoragekent/selfstoragetonbridge/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "tunbridge-wells",
+      "path": "selfstoragekent/selfstoragetunbridge-wells/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "westerham",
+      "path": "selfstoragekent/selfstoragewesterham/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "whitstable",
+      "path": "selfstoragekent/selfstoragewhitstable/index.html",
+      "region": "kent"
+    },
+    {
+      "name": "accrington",
+      "path": "selfstoragelancashire/selfstorageaccrington/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "adlington",
+      "path": "selfstoragelancashire/selfstorageadlington/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "bacup",
+      "path": "selfstoragelancashire/selfstoragebacup/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "barnoldswick",
+      "path": "selfstoragelancashire/selfstoragebarnoldswick/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "blackburn",
+      "path": "selfstoragelancashire/selfstorageblackburn/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "blackpool",
+      "path": "selfstoragelancashire/selfstorageblackpool/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "burnley",
+      "path": "selfstoragelancashire/selfstorageburnley/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "burscough",
+      "path": "selfstoragelancashire/selfstorageburscough/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "carnforth",
+      "path": "selfstoragelancashire/selfstoragecarnforth/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "chorley",
+      "path": "selfstoragelancashire/selfstoragechorley/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "clayton-le-moors",
+      "path": "selfstoragelancashire/selfstorageclayton-le-moors/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "cleveleys",
+      "path": "selfstoragelancashire/selfstoragecleveleys/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "clitheroe",
+      "path": "selfstoragelancashire/selfstorageclitheroe/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "colne",
+      "path": "selfstoragelancashire/selfstoragecolne/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "darwen--need-to-look-more-into-",
+      "path": "selfstoragelancashire/selfstoragedarwen--need-to-look-more-into-/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "fleetwood",
+      "path": "selfstoragelancashire/selfstoragefleetwood/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "garstang",
+      "path": "selfstoragelancashire/selfstoragegarstang/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "great-harwood",
+      "path": "selfstoragelancashire/selfstoragegreat-harwood/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "haslingden",
+      "path": "selfstoragelancashire/selfstoragehaslingden/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "kirkham",
+      "path": "selfstoragelancashire/selfstoragekirkham/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "lancaster",
+      "path": "selfstoragelancashire/selfstoragelancaster/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "leyland",
+      "path": "selfstoragelancashire/selfstorageleyland/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "longridge",
+      "path": "selfstoragelancashire/selfstoragelongridge/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "lytham-st-annes",
+      "path": "selfstoragelancashire/selfstoragelytham-st-annes/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "morecambe-need-to-check-but-looks-like-that-is-it",
+      "path": "selfstoragelancashire/selfstoragemorecambe-need-to-check-but-looks-like-that-is-it/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "nelson",
+      "path": "selfstoragelancashire/selfstoragenelson/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "ormskirk",
+      "path": "selfstoragelancashire/selfstorageormskirk/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "oswaldtwistle",
+      "path": "selfstoragelancashire/selfstorageoswaldtwistle/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "padiham",
+      "path": "selfstoragelancashire/selfstoragepadiham/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "penwortham",
+      "path": "selfstoragelancashire/selfstoragepenwortham/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "poulton-le-fylde",
+      "path": "selfstoragelancashire/selfstoragepoulton-le-fylde/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "preesall",
+      "path": "selfstoragelancashire/selfstoragepreesall/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "preston",
+      "path": "selfstoragelancashire/selfstoragepreston/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "rawtenstall",
+      "path": "selfstoragelancashire/selfstoragerawtenstall/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "rishton",
+      "path": "selfstoragelancashire/selfstoragerishton/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "skelmersdale",
+      "path": "selfstoragelancashire/selfstorageskelmersdale/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "whitworth",
+      "path": "selfstoragelancashire/selfstoragewhitworth/index.html",
+      "region": "lancashire"
+    },
+    {
+      "name": "ashby-de-la-zouch",
+      "path": "selfstorageleicestershire/selfstorageashby-de-la-zouch/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "aylestone",
+      "path": "selfstorageleicestershire/selfstorageaylestone/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "braunstone-town",
+      "path": "selfstorageleicestershire/selfstoragebraunstone-town/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "castle-donington",
+      "path": "selfstorageleicestershire/selfstoragecastle-donington/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "coalville",
+      "path": "selfstorageleicestershire/selfstoragecoalville/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "earl-shilton",
+      "path": "selfstorageleicestershire/selfstorageearl-shilton/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "enderby",
+      "path": "selfstorageleicestershire/selfstorageenderby/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "hinckley",
+      "path": "selfstorageleicestershire/selfstoragehinckley/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "leicester",
+      "path": "selfstorageleicestershire/selfstorageleicester/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "loughborough",
+      "path": "selfstorageleicestershire/selfstorageloughborough/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "lutterworth",
+      "path": "selfstorageleicestershire/selfstoragelutterworth/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "market-bosworth",
+      "path": "selfstorageleicestershire/selfstoragemarket-bosworth/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "market-harborough",
+      "path": "selfstorageleicestershire/selfstoragemarket-harborough/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "melton-mowbray",
+      "path": "selfstorageleicestershire/selfstoragemelton-mowbray/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "oadby-and-wigston",
+      "path": "selfstorageleicestershire/selfstorageoadby-and-wigston/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "shepshed",
+      "path": "selfstorageleicestershire/selfstorageshepshed/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "syston",
+      "path": "selfstorageleicestershire/selfstoragesyston/index.html",
+      "region": "leicestershire"
+    },
+    {
+      "name": "alford",
+      "path": "selfstoragelincolnshire/selfstoragealford/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "barton-upon-humber",
+      "path": "selfstoragelincolnshire/selfstoragebarton-upon-humber/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "boston",
+      "path": "selfstoragelincolnshire/selfstorageboston/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "bourne",
+      "path": "selfstoragelincolnshire/selfstoragebourne/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "bracebridge-heath",
+      "path": "selfstoragelincolnshire/selfstoragebracebridge-heath/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "brigg",
+      "path": "selfstoragelincolnshire/selfstoragebrigg/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "broughton",
+      "path": "selfstoragelincolnshire/selfstoragebroughton/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "burgh-le-marsh",
+      "path": "selfstoragelincolnshire/selfstorageburgh-le-marsh/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "caistor",
+      "path": "selfstoragelincolnshire/selfstoragecaistor/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "crowland",
+      "path": "selfstoragelincolnshire/selfstoragecrowland/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "crowle",
+      "path": "selfstoragelincolnshire/selfstoragecrowle/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "epworth",
+      "path": "selfstoragelincolnshire/selfstorageepworth/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "gainsborough",
+      "path": "selfstoragelincolnshire/selfstoragegainsborough/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "grantham",
+      "path": "selfstoragelincolnshire/selfstoragegrantham/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "grimsby",
+      "path": "selfstoragelincolnshire/selfstoragegrimsby/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "holbeach",
+      "path": "selfstoragelincolnshire/selfstorageholbeach/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "horncastle",
+      "path": "selfstoragelincolnshire/selfstoragehorncastle/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "immingham",
+      "path": "selfstoragelincolnshire/selfstorageimmingham/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "kirton-in-lindsey",
+      "path": "selfstoragelincolnshire/selfstoragekirton-in-lindsey/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "lincoln",
+      "path": "selfstoragelincolnshire/selfstoragelincoln/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "long-sutton",
+      "path": "selfstoragelincolnshire/selfstoragelong-sutton/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "louth",
+      "path": "selfstoragelincolnshire/selfstoragelouth/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "mablethorpe",
+      "path": "selfstoragelincolnshire/selfstoragemablethorpe/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "market-deeping",
+      "path": "selfstoragelincolnshire/selfstoragemarket-deeping/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "market-rasen",
+      "path": "selfstoragelincolnshire/selfstoragemarket-rasen/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "north-hykeham",
+      "path": "selfstoragelincolnshire/selfstoragenorth-hykeham/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "scunthorpe",
+      "path": "selfstoragelincolnshire/selfstoragescunthorpe/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "skegness",
+      "path": "selfstoragelincolnshire/selfstorageskegness/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "sleaford",
+      "path": "selfstoragelincolnshire/selfstoragesleaford/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "spalding",
+      "path": "selfstoragelincolnshire/selfstoragespalding/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "spilsby",
+      "path": "selfstoragelincolnshire/selfstoragespilsby/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "stamford",
+      "path": "selfstoragelincolnshire/selfstoragestamford/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "wainfleet-all-saints",
+      "path": "selfstoragelincolnshire/selfstoragewainfleet-all-saints/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "winterton",
+      "path": "selfstoragelincolnshire/selfstoragewinterton/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "wragby",
+      "path": "selfstoragelincolnshire/selfstoragewragby/index.html",
+      "region": "lincolnshire"
+    },
+    {
+      "name": "aigburth",
+      "path": "selfstoragemerseyside/selfstorageaigburth/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "ainsdale",
+      "path": "selfstoragemerseyside/selfstorageainsdale/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "ashton-in-makerfield",
+      "path": "selfstoragemerseyside/selfstorageashton-in-makerfield/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "bebington",
+      "path": "selfstoragemerseyside/selfstoragebebington/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "birkenhead",
+      "path": "selfstoragemerseyside/selfstoragebirkenhead/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "bootle",
+      "path": "selfstoragemerseyside/selfstoragebootle/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "bromborough",
+      "path": "selfstoragemerseyside/selfstoragebromborough/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "crosby",
+      "path": "selfstoragemerseyside/selfstoragecrosby/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "formby",
+      "path": "selfstoragemerseyside/selfstorageformby/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "halewood",
+      "path": "selfstoragemerseyside/selfstoragehalewood/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "heswall",
+      "path": "selfstoragemerseyside/selfstorageheswall/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "hoylake",
+      "path": "selfstoragemerseyside/selfstoragehoylake/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "huyton",
+      "path": "selfstoragemerseyside/selfstoragehuyton/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "litherland",
+      "path": "selfstoragemerseyside/selfstoragelitherland/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "liverpool",
+      "path": "selfstoragemerseyside/selfstorageliverpool/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "maghull",
+      "path": "selfstoragemerseyside/selfstoragemaghull/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "moreton",
+      "path": "selfstoragemerseyside/selfstoragemoreton/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "newton-le-willows",
+      "path": "selfstoragemerseyside/selfstoragenewton-le-willows/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "prescot",
+      "path": "selfstoragemerseyside/selfstorageprescot/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "southport",
+      "path": "selfstoragemerseyside/selfstoragesouthport/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "st-helens",
+      "path": "selfstoragemerseyside/selfstoragest-helens/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "wallasey",
+      "path": "selfstoragemerseyside/selfstoragewallasey/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "wavertree",
+      "path": "selfstoragemerseyside/selfstoragewavertree/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "west-kirby",
+      "path": "selfstoragemerseyside/selfstoragewest-kirby/index.html",
+      "region": "merseyside"
+    },
+    {
+      "name": "auchendinny",
+      "path": "selfstoragemidlothian/selfstorageauchendinny/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "bonnyrigg",
+      "path": "selfstoragemidlothian/selfstoragebonnyrigg/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "dalkeith",
+      "path": "selfstoragemidlothian/selfstoragedalkeith/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "gorebridge",
+      "path": "selfstoragemidlothian/selfstoragegorebridge/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "lasswade",
+      "path": "selfstoragemidlothian/selfstoragelasswade/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "loanhead",
+      "path": "selfstoragemidlothian/selfstorageloanhead/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "newtongrange",
+      "path": "selfstoragemidlothian/selfstoragenewtongrange/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "pathhead",
+      "path": "selfstoragemidlothian/selfstoragepathhead/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "penicuik",
+      "path": "selfstoragemidlothian/selfstoragepenicuik/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "roslin",
+      "path": "selfstoragemidlothian/selfstorageroslin/index.html",
+      "region": "midlothian"
+    },
+    {
+      "name": "aberlour",
+      "path": "selfstoragemoray/selfstorageaberlour/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "buckie",
+      "path": "selfstoragemoray/selfstoragebuckie/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "burghead",
+      "path": "selfstoragemoray/selfstorageburghead/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "dufftown",
+      "path": "selfstoragemoray/selfstoragedufftown/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "elgin",
+      "path": "selfstoragemoray/selfstorageelgin/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "forres",
+      "path": "selfstoragemoray/selfstorageforres/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "hopeman",
+      "path": "selfstoragemoray/selfstoragehopeman/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "keith",
+      "path": "selfstoragemoray/selfstoragekeith/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "lossiemouth",
+      "path": "selfstoragemoray/selfstoragelossiemouth/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "rothes",
+      "path": "selfstoragemoray/selfstoragerothes/index.html",
+      "region": "moray"
+    },
+    {
+      "name": "acle",
+      "path": "selfstoragenorfolk/selfstorageacle/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "attleborough",
+      "path": "selfstoragenorfolk/selfstorageattleborough/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "aylsham",
+      "path": "selfstoragenorfolk/selfstorageaylsham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "cromer",
+      "path": "selfstoragenorfolk/selfstoragecromer/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "dereham",
+      "path": "selfstoragenorfolk/selfstoragedereham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "diss",
+      "path": "selfstoragenorfolk/selfstoragediss/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "fakenham",
+      "path": "selfstoragenorfolk/selfstoragefakenham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "gorleston-on-sea",
+      "path": "selfstoragenorfolk/selfstoragegorleston-on-sea/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "great-yarmouth",
+      "path": "selfstoragenorfolk/selfstoragegreat-yarmouth/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "hingham",
+      "path": "selfstoragenorfolk/selfstoragehingham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "holt",
+      "path": "selfstoragenorfolk/selfstorageholt/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "hunstanton",
+      "path": "selfstoragenorfolk/selfstoragehunstanton/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "king-s-lynn-and-west-norfolk",
+      "path": "selfstoragenorfolk/selfstorageking-s-lynn-and-west-norfolk/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "loddon",
+      "path": "selfstoragenorfolk/selfstorageloddon/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "long-stratton",
+      "path": "selfstoragenorfolk/selfstoragelong-stratton/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "north-walsham",
+      "path": "selfstoragenorfolk/selfstoragenorth-walsham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "reepham",
+      "path": "selfstoragenorfolk/selfstoragereepham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "sheringham",
+      "path": "selfstoragenorfolk/selfstoragesheringham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "sprowston",
+      "path": "selfstoragenorfolk/selfstoragesprowston/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "stalham-and-sutton",
+      "path": "selfstoragenorfolk/selfstoragestalham-and-sutton/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "swaffham",
+      "path": "selfstoragenorfolk/selfstorageswaffham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "thetford",
+      "path": "selfstoragenorfolk/selfstoragethetford/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "thorpe-st-andrew",
+      "path": "selfstoragenorfolk/selfstoragethorpe-st-andrew/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "watton",
+      "path": "selfstoragenorfolk/selfstoragewatton/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "wymondham",
+      "path": "selfstoragenorfolk/selfstoragewymondham/index.html",
+      "region": "norfolk"
+    },
+    {
+      "name": "ardrossan",
+      "path": "selfstoragenorth-ayrshire/selfstorageardrossan/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "beith",
+      "path": "selfstoragenorth-ayrshire/selfstoragebeith/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "dalry",
+      "path": "selfstoragenorth-ayrshire/selfstoragedalry/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "irvine",
+      "path": "selfstoragenorth-ayrshire/selfstorageirvine/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "kilbirnie",
+      "path": "selfstoragenorth-ayrshire/selfstoragekilbirnie/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "largs",
+      "path": "selfstoragenorth-ayrshire/selfstoragelargs/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "millport",
+      "path": "selfstoragenorth-ayrshire/selfstoragemillport/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "saltcoats",
+      "path": "selfstoragenorth-ayrshire/selfstoragesaltcoats/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "stevenston",
+      "path": "selfstoragenorth-ayrshire/selfstoragestevenston/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "west-kilbride",
+      "path": "selfstoragenorth-ayrshire/selfstoragewest-kilbride/index.html",
+      "region": "north-ayrshire"
+    },
+    {
+      "name": "airdrie",
+      "path": "selfstoragenorth-lanarkshire/selfstorageairdrie/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "bellshill",
+      "path": "selfstoragenorth-lanarkshire/selfstoragebellshill/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "chryston",
+      "path": "selfstoragenorth-lanarkshire/selfstoragechryston/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "coatbridge",
+      "path": "selfstoragenorth-lanarkshire/selfstoragecoatbridge/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "cumbernauld",
+      "path": "selfstoragenorth-lanarkshire/selfstoragecumbernauld/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "kilsyth",
+      "path": "selfstoragenorth-lanarkshire/selfstoragekilsyth/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "motherwell",
+      "path": "selfstoragenorth-lanarkshire/selfstoragemotherwell/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "shotts",
+      "path": "selfstoragenorth-lanarkshire/selfstorageshotts/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "stepps",
+      "path": "selfstoragenorth-lanarkshire/selfstoragestepps/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "wishaw",
+      "path": "selfstoragenorth-lanarkshire/selfstoragewishaw/index.html",
+      "region": "north-lanarkshire"
+    },
+    {
+      "name": "bedale",
+      "path": "selfstoragenorth-yorkshire/selfstoragebedale/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "bentham",
+      "path": "selfstoragenorth-yorkshire/selfstoragebentham/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "boroughbridge",
+      "path": "selfstoragenorth-yorkshire/selfstorageboroughbridge/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "easingwold",
+      "path": "selfstoragenorth-yorkshire/selfstorageeasingwold/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "filey",
+      "path": "selfstoragenorth-yorkshire/selfstoragefiley/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "grassington",
+      "path": "selfstoragenorth-yorkshire/selfstoragegrassington/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "guisborough",
+      "path": "selfstoragenorth-yorkshire/selfstorageguisborough/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "harrogate",
+      "path": "selfstoragenorth-yorkshire/selfstorageharrogate/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "hawes",
+      "path": "selfstoragenorth-yorkshire/selfstoragehawes/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "haxby",
+      "path": "selfstoragenorth-yorkshire/selfstoragehaxby/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "helmsley",
+      "path": "selfstoragenorth-yorkshire/selfstoragehelmsley/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "kirkbymoorside",
+      "path": "selfstoragenorth-yorkshire/selfstoragekirkbymoorside/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "knaresborough",
+      "path": "selfstoragenorth-yorkshire/selfstorageknaresborough/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "leyburn",
+      "path": "selfstoragenorth-yorkshire/selfstorageleyburn/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "loftus",
+      "path": "selfstoragenorth-yorkshire/selfstorageloftus/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "malton",
+      "path": "selfstoragenorth-yorkshire/selfstoragemalton/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "masham",
+      "path": "selfstoragenorth-yorkshire/selfstoragemasham/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "middleham",
+      "path": "selfstoragenorth-yorkshire/selfstoragemiddleham/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "middlesbrough",
+      "path": "selfstoragenorth-yorkshire/selfstoragemiddlesbrough/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "northallerton",
+      "path": "selfstoragenorth-yorkshire/selfstoragenorthallerton/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "norton-on-derwent",
+      "path": "selfstoragenorth-yorkshire/selfstoragenorton-on-derwent/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "pateley-bridge",
+      "path": "selfstoragenorth-yorkshire/selfstoragepateley-bridge/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "pickering",
+      "path": "selfstoragenorth-yorkshire/selfstoragepickering/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "redcar",
+      "path": "selfstoragenorth-yorkshire/selfstorageredcar/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "richmond",
+      "path": "selfstoragenorth-yorkshire/selfstoragerichmond/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "ripon",
+      "path": "selfstoragenorth-yorkshire/selfstorageripon/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "scarborough",
+      "path": "selfstoragenorth-yorkshire/selfstoragescarborough/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "selby",
+      "path": "selfstoragenorth-yorkshire/selfstorageselby/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "settle",
+      "path": "selfstoragenorth-yorkshire/selfstoragesettle/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "skelton-in-cleveland",
+      "path": "selfstoragenorth-yorkshire/selfstorageskelton-in-cleveland/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "skipton",
+      "path": "selfstoragenorth-yorkshire/selfstorageskipton/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "stockton-on-tees-south-of-the-river-tees",
+      "path": "selfstoragenorth-yorkshire/selfstoragestockton-on-tees-south-of-the-river-tees/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "stokesley",
+      "path": "selfstoragenorth-yorkshire/selfstoragestokesley/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "tadcaster",
+      "path": "selfstoragenorth-yorkshire/selfstoragetadcaster/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "thirsk",
+      "path": "selfstoragenorth-yorkshire/selfstoragethirsk/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "thornaby-on-tees",
+      "path": "selfstoragenorth-yorkshire/selfstoragethornaby-on-tees/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "whitby",
+      "path": "selfstoragenorth-yorkshire/selfstoragewhitby/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "yarm",
+      "path": "selfstoragenorth-yorkshire/selfstorageyarm/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "york",
+      "path": "selfstoragenorth-yorkshire/selfstorageyork/index.html",
+      "region": "north-yorkshire"
+    },
+    {
+      "name": "brackley",
+      "path": "selfstoragenorthamptonshire/selfstoragebrackley/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "burton-latimer",
+      "path": "selfstoragenorthamptonshire/selfstorageburton-latimer/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "corby",
+      "path": "selfstoragenorthamptonshire/selfstoragecorby/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "daventry",
+      "path": "selfstoragenorthamptonshire/selfstoragedaventry/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "desborough",
+      "path": "selfstoragenorthamptonshire/selfstoragedesborough/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "finedon",
+      "path": "selfstoragenorthamptonshire/selfstoragefinedon/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "higham-ferrers",
+      "path": "selfstoragenorthamptonshire/selfstoragehigham-ferrers/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "irthlingborough",
+      "path": "selfstoragenorthamptonshire/selfstorageirthlingborough/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "kettering",
+      "path": "selfstoragenorthamptonshire/selfstoragekettering/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "northampton",
+      "path": "selfstoragenorthamptonshire/selfstoragenorthampton/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "oundle",
+      "path": "selfstoragenorthamptonshire/selfstorageoundle/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "raunds",
+      "path": "selfstoragenorthamptonshire/selfstorageraunds/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "rothwell",
+      "path": "selfstoragenorthamptonshire/selfstoragerothwell/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "rushden",
+      "path": "selfstoragenorthamptonshire/selfstoragerushden/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "thrapston",
+      "path": "selfstoragenorthamptonshire/selfstoragethrapston/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "towcester",
+      "path": "selfstoragenorthamptonshire/selfstoragetowcester/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "wellingborough",
+      "path": "selfstoragenorthamptonshire/selfstoragewellingborough/index.html",
+      "region": "northamptonshire"
+    },
+    {
+      "name": "alnwick",
+      "path": "selfstoragenorthumberland/selfstoragealnwick/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "amble",
+      "path": "selfstoragenorthumberland/selfstorageamble/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "ashington",
+      "path": "selfstoragenorthumberland/selfstorageashington/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "bedlington",
+      "path": "selfstoragenorthumberland/selfstoragebedlington/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "berwick-upon-tweed",
+      "path": "selfstoragenorthumberland/selfstorageberwick-upon-tweed/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "blyth",
+      "path": "selfstoragenorthumberland/selfstorageblyth/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "cramlington",
+      "path": "selfstoragenorthumberland/selfstoragecramlington/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "haltwhistle",
+      "path": "selfstoragenorthumberland/selfstoragehaltwhistle/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "hexham",
+      "path": "selfstoragenorthumberland/selfstoragehexham/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "morpeth",
+      "path": "selfstoragenorthumberland/selfstoragemorpeth/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "newbiggin-by-the-sea",
+      "path": "selfstoragenorthumberland/selfstoragenewbiggin-by-the-sea/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "prudhoe",
+      "path": "selfstoragenorthumberland/selfstorageprudhoe/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "rothbury",
+      "path": "selfstoragenorthumberland/selfstoragerothbury/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "wooler",
+      "path": "selfstoragenorthumberland/selfstoragewooler/index.html",
+      "region": "northumberland"
+    },
+    {
+      "name": "arnold",
+      "path": "selfstoragenottinghamshire/selfstoragearnold/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "beeston",
+      "path": "selfstoragenottinghamshire/selfstoragebeeston/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "bingham",
+      "path": "selfstoragenottinghamshire/selfstoragebingham/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "bulwell",
+      "path": "selfstoragenottinghamshire/selfstoragebulwell/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "cotgrave",
+      "path": "selfstoragenottinghamshire/selfstoragecotgrave/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "eastwood",
+      "path": "selfstoragenottinghamshire/selfstorageeastwood/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "hucknall",
+      "path": "selfstoragenottinghamshire/selfstoragehucknall/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "kimberley",
+      "path": "selfstoragenottinghamshire/selfstoragekimberley/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "kirkby-in-ashfield",
+      "path": "selfstoragenottinghamshire/selfstoragekirkby-in-ashfield/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "mansfield",
+      "path": "selfstoragenottinghamshire/selfstoragemansfield/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "netherfield",
+      "path": "selfstoragenottinghamshire/selfstoragenetherfield/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "newark-on-trent",
+      "path": "selfstoragenottinghamshire/selfstoragenewark-on-trent/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "nottingham",
+      "path": "selfstoragenottinghamshire/selfstoragenottingham/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "ollerton",
+      "path": "selfstoragenottinghamshire/selfstorageollerton/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "retford",
+      "path": "selfstoragenottinghamshire/selfstorageretford/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "southwell",
+      "path": "selfstoragenottinghamshire/selfstoragesouthwell/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "stapleford",
+      "path": "selfstoragenottinghamshire/selfstoragestapleford/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "sutton-in-ashfield",
+      "path": "selfstoragenottinghamshire/selfstoragesutton-in-ashfield/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "worksop",
+      "path": "selfstoragenottinghamshire/selfstorageworksop/index.html",
+      "region": "nottinghamshire"
+    },
+    {
+      "name": "abingdon-on-thames",
+      "path": "selfstorageoxfordshire/selfstorageabingdon-on-thames/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "banbury",
+      "path": "selfstorageoxfordshire/selfstoragebanbury/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "bicester",
+      "path": "selfstorageoxfordshire/selfstoragebicester/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "burford",
+      "path": "selfstorageoxfordshire/selfstorageburford/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "carterton",
+      "path": "selfstorageoxfordshire/selfstoragecarterton/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "charlbury",
+      "path": "selfstorageoxfordshire/selfstoragecharlbury/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "chipping-norton",
+      "path": "selfstorageoxfordshire/selfstoragechipping-norton/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "didcot",
+      "path": "selfstorageoxfordshire/selfstoragedidcot/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "faringdon",
+      "path": "selfstorageoxfordshire/selfstoragefaringdon/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "henley-on-thames",
+      "path": "selfstorageoxfordshire/selfstoragehenley-on-thames/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "oxford",
+      "path": "selfstorageoxfordshire/selfstorageoxford/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "thame",
+      "path": "selfstorageoxfordshire/selfstoragethame/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "wallingford",
+      "path": "selfstorageoxfordshire/selfstoragewallingford/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "wantage",
+      "path": "selfstorageoxfordshire/selfstoragewantage/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "watlington",
+      "path": "selfstorageoxfordshire/selfstoragewatlington/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "witney",
+      "path": "selfstorageoxfordshire/selfstoragewitney/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "woodstock",
+      "path": "selfstorageoxfordshire/selfstoragewoodstock/index.html",
+      "region": "oxfordshire"
+    },
+    {
+      "name": "aberfeldy",
+      "path": "selfstorageperth-and-kinross/selfstorageaberfeldy/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "blairgowrie",
+      "path": "selfstorageperth-and-kinross/selfstorageblairgowrie/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "bridge-of-earn",
+      "path": "selfstorageperth-and-kinross/selfstoragebridge-of-earn/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "comrie",
+      "path": "selfstorageperth-and-kinross/selfstoragecomrie/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "coupar-angus",
+      "path": "selfstorageperth-and-kinross/selfstoragecoupar-angus/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "crieff",
+      "path": "selfstorageperth-and-kinross/selfstoragecrieff/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "dunkeld",
+      "path": "selfstorageperth-and-kinross/selfstoragedunkeld/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "kinross",
+      "path": "selfstorageperth-and-kinross/selfstoragekinross/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "perth",
+      "path": "selfstorageperth-and-kinross/selfstorageperth/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "pitlochry",
+      "path": "selfstorageperth-and-kinross/selfstoragepitlochry/index.html",
+      "region": "perth-and-kinross"
+    },
+    {
+      "name": "bishopton",
+      "path": "selfstoragerenfrewshire/selfstoragebishopton/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "bridge-of-weir",
+      "path": "selfstoragerenfrewshire/selfstoragebridge-of-weir/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "elderslie",
+      "path": "selfstoragerenfrewshire/selfstorageelderslie/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "erskine",
+      "path": "selfstoragerenfrewshire/selfstorageerskine/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "houston",
+      "path": "selfstoragerenfrewshire/selfstoragehouston/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "johnstone",
+      "path": "selfstoragerenfrewshire/selfstoragejohnstone/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "linwood",
+      "path": "selfstoragerenfrewshire/selfstoragelinwood/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "paisley",
+      "path": "selfstoragerenfrewshire/selfstoragepaisley/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "renfrew",
+      "path": "selfstoragerenfrewshire/selfstoragerenfrew/index.html",
+      "region": "renfrewshire"
+    },
+    {
+      "name": "oakham",
+      "path": "selfstoragerutland/selfstorageoakham/index.html",
+      "region": "rutland"
+    },
+    {
+      "name": "uppingham",
+      "path": "selfstoragerutland/selfstorageuppingham/index.html",
+      "region": "rutland"
+    },
+    {
+      "name": "coldstream",
+      "path": "selfstoragescottish-borders/selfstoragecoldstream/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "duns",
+      "path": "selfstoragescottish-borders/selfstorageduns/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "eyemouth",
+      "path": "selfstoragescottish-borders/selfstorageeyemouth/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "galashiels",
+      "path": "selfstoragescottish-borders/selfstoragegalashiels/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "hawick",
+      "path": "selfstoragescottish-borders/selfstoragehawick/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "jedburgh",
+      "path": "selfstoragescottish-borders/selfstoragejedburgh/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "kelso",
+      "path": "selfstoragescottish-borders/selfstoragekelso/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "melrose",
+      "path": "selfstoragescottish-borders/selfstoragemelrose/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "peebles",
+      "path": "selfstoragescottish-borders/selfstoragepeebles/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "selkirk",
+      "path": "selfstoragescottish-borders/selfstorageselkirk/index.html",
+      "region": "scottish-borders"
+    },
+    {
+      "name": "aith",
+      "path": "selfstorageshetland-islands/selfstorageaith/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "brae",
+      "path": "selfstorageshetland-islands/selfstoragebrae/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "lerwick",
+      "path": "selfstorageshetland-islands/selfstoragelerwick/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "sandwick",
+      "path": "selfstorageshetland-islands/selfstoragesandwick/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "scalloway",
+      "path": "selfstorageshetland-islands/selfstoragescalloway/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "voe",
+      "path": "selfstorageshetland-islands/selfstoragevoe/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "walls",
+      "path": "selfstorageshetland-islands/selfstoragewalls/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "whalsay",
+      "path": "selfstorageshetland-islands/selfstoragewhalsay/index.html",
+      "region": "shetland-islands"
+    },
+    {
+      "name": "bishop-s-castle",
+      "path": "selfstorageshropshire/selfstoragebishop-s-castle/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "bridgnorth",
+      "path": "selfstorageshropshire/selfstoragebridgnorth/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "broseley",
+      "path": "selfstorageshropshire/selfstoragebroseley/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "church-stretton",
+      "path": "selfstorageshropshire/selfstoragechurch-stretton/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "cleobury-mortimer",
+      "path": "selfstorageshropshire/selfstoragecleobury-mortimer/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "clun",
+      "path": "selfstorageshropshire/selfstorageclun/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "craven-arms",
+      "path": "selfstorageshropshire/selfstoragecraven-arms/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "donnington",
+      "path": "selfstorageshropshire/selfstoragedonnington/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "ellesmere",
+      "path": "selfstorageshropshire/selfstorageellesmere/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "ludlow",
+      "path": "selfstorageshropshire/selfstorageludlow/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "madeley",
+      "path": "selfstorageshropshire/selfstoragemadeley/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "market-drayton",
+      "path": "selfstorageshropshire/selfstoragemarket-drayton/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "much-wenlock",
+      "path": "selfstorageshropshire/selfstoragemuch-wenlock/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "newport",
+      "path": "selfstorageshropshire/selfstoragenewport/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "oswestry",
+      "path": "selfstorageshropshire/selfstorageoswestry/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "ruyton-xi-towns",
+      "path": "selfstorageshropshire/selfstorageruyton-xi-towns/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "shifnal",
+      "path": "selfstorageshropshire/selfstorageshifnal/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "shrewsbury",
+      "path": "selfstorageshropshire/selfstorageshrewsbury/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "telford-and-wrekin",
+      "path": "selfstorageshropshire/selfstoragetelford-and-wrekin/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "wem",
+      "path": "selfstorageshropshire/selfstoragewem/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "whitchurch",
+      "path": "selfstorageshropshire/selfstoragewhitchurch/index.html",
+      "region": "shropshire"
+    },
+    {
+      "name": "axbridge",
+      "path": "selfstoragesomerset/selfstorageaxbridge/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "bath",
+      "path": "selfstoragesomerset/selfstoragebath/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "bridgwater",
+      "path": "selfstoragesomerset/selfstoragebridgwater/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "bruton",
+      "path": "selfstoragesomerset/selfstoragebruton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "burnham-on-sea",
+      "path": "selfstoragesomerset/selfstorageburnham-on-sea/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "castle-cary",
+      "path": "selfstoragesomerset/selfstoragecastle-cary/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "chard",
+      "path": "selfstoragesomerset/selfstoragechard/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "clevedon",
+      "path": "selfstoragesomerset/selfstorageclevedon/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "crewkerne",
+      "path": "selfstoragesomerset/selfstoragecrewkerne/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "dulverton",
+      "path": "selfstoragesomerset/selfstoragedulverton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "frome",
+      "path": "selfstoragesomerset/selfstoragefrome/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "glastonbury",
+      "path": "selfstoragesomerset/selfstorageglastonbury/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "highbridge",
+      "path": "selfstoragesomerset/selfstoragehighbridge/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "ilminster",
+      "path": "selfstoragesomerset/selfstorageilminster/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "keynsham",
+      "path": "selfstoragesomerset/selfstoragekeynsham/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "langport",
+      "path": "selfstoragesomerset/selfstoragelangport/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "midsomer-norton",
+      "path": "selfstoragesomerset/selfstoragemidsomer-norton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "minehead",
+      "path": "selfstoragesomerset/selfstorageminehead/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "nailsea",
+      "path": "selfstoragesomerset/selfstoragenailsea/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "north-petherton",
+      "path": "selfstoragesomerset/selfstoragenorth-petherton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "portishead",
+      "path": "selfstoragesomerset/selfstorageportishead/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "radstock",
+      "path": "selfstoragesomerset/selfstorageradstock/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "shepton-mallet",
+      "path": "selfstoragesomerset/selfstorageshepton-mallet/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "somerton",
+      "path": "selfstoragesomerset/selfstoragesomerton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "south-petherton",
+      "path": "selfstoragesomerset/selfstoragesouth-petherton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "taunton",
+      "path": "selfstoragesomerset/selfstoragetaunton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "watchet",
+      "path": "selfstoragesomerset/selfstoragewatchet/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "wellington",
+      "path": "selfstoragesomerset/selfstoragewellington/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "wells",
+      "path": "selfstoragesomerset/selfstoragewells/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "weston-super-mare",
+      "path": "selfstoragesomerset/selfstorageweston-super-mare/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "wincanton",
+      "path": "selfstoragesomerset/selfstoragewincanton/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "wiveliscombe",
+      "path": "selfstoragesomerset/selfstoragewiveliscombe/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "yeovil",
+      "path": "selfstoragesomerset/selfstorageyeovil/index.html",
+      "region": "somerset"
+    },
+    {
+      "name": "alloway",
+      "path": "selfstoragesouth-ayrshire/selfstoragealloway/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "ayr",
+      "path": "selfstoragesouth-ayrshire/selfstorageayr/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "girvan",
+      "path": "selfstoragesouth-ayrshire/selfstoragegirvan/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "maybole",
+      "path": "selfstoragesouth-ayrshire/selfstoragemaybole/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "prestwick",
+      "path": "selfstoragesouth-ayrshire/selfstorageprestwick/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "symington",
+      "path": "selfstoragesouth-ayrshire/selfstoragesymington/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "tarbolton",
+      "path": "selfstoragesouth-ayrshire/selfstoragetarbolton/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "troon",
+      "path": "selfstoragesouth-ayrshire/selfstoragetroon/index.html",
+      "region": "south-ayrshire"
+    },
+    {
+      "name": "biggar",
+      "path": "selfstoragesouth-lanarkshire/selfstoragebiggar/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "blantyre",
+      "path": "selfstoragesouth-lanarkshire/selfstorageblantyre/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "cambuslang",
+      "path": "selfstoragesouth-lanarkshire/selfstoragecambuslang/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "carluke",
+      "path": "selfstoragesouth-lanarkshire/selfstoragecarluke/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "east-kilbride",
+      "path": "selfstoragesouth-lanarkshire/selfstorageeast-kilbride/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "hamilton",
+      "path": "selfstoragesouth-lanarkshire/selfstoragehamilton/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "lanark",
+      "path": "selfstoragesouth-lanarkshire/selfstoragelanark/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "larkhall",
+      "path": "selfstoragesouth-lanarkshire/selfstoragelarkhall/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "rutherglen",
+      "path": "selfstoragesouth-lanarkshire/selfstoragerutherglen/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "strathaven",
+      "path": "selfstoragesouth-lanarkshire/selfstoragestrathaven/index.html",
+      "region": "south-lanarkshire"
+    },
+    {
+      "name": "askern",
+      "path": "selfstoragesouth-yorkshire/selfstorageaskern/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "barnsley",
+      "path": "selfstoragesouth-yorkshire/selfstoragebarnsley/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "bawtry",
+      "path": "selfstoragesouth-yorkshire/selfstoragebawtry/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "brierley",
+      "path": "selfstoragesouth-yorkshire/selfstoragebrierley/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "conisbrough",
+      "path": "selfstoragesouth-yorkshire/selfstorageconisbrough/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "dinnington",
+      "path": "selfstoragesouth-yorkshire/selfstoragedinnington/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "doncaster",
+      "path": "selfstoragesouth-yorkshire/selfstoragedoncaster/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "edlington",
+      "path": "selfstoragesouth-yorkshire/selfstorageedlington/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "hatfield",
+      "path": "selfstoragesouth-yorkshire/selfstoragehatfield/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "hoyland",
+      "path": "selfstoragesouth-yorkshire/selfstoragehoyland/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "maltby",
+      "path": "selfstoragesouth-yorkshire/selfstoragemaltby/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "mexborough",
+      "path": "selfstoragesouth-yorkshire/selfstoragemexborough/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "penistone",
+      "path": "selfstoragesouth-yorkshire/selfstoragepenistone/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "rotherham",
+      "path": "selfstoragesouth-yorkshire/selfstoragerotherham/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "sheffield",
+      "path": "selfstoragesouth-yorkshire/selfstoragesheffield/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "stainforth",
+      "path": "selfstoragesouth-yorkshire/selfstoragestainforth/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "stocksbridge",
+      "path": "selfstoragesouth-yorkshire/selfstoragestocksbridge/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "swinton",
+      "path": "selfstoragesouth-yorkshire/selfstorageswinton/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "thorne",
+      "path": "selfstoragesouth-yorkshire/selfstoragethorne/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "tickhill",
+      "path": "selfstoragesouth-yorkshire/selfstoragetickhill/index.html",
+      "region": "south-yorkshire"
+    },
+    {
+      "name": "biddulph",
+      "path": "selfstoragestaffordshire/selfstoragebiddulph/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "brewood",
+      "path": "selfstoragestaffordshire/selfstoragebrewood/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "burntwood",
+      "path": "selfstoragestaffordshire/selfstorageburntwood/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "burslem",
+      "path": "selfstoragestaffordshire/selfstorageburslem/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "burton-upon-trent",
+      "path": "selfstoragestaffordshire/selfstorageburton-upon-trent/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "cannock",
+      "path": "selfstoragestaffordshire/selfstoragecannock/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "codsall",
+      "path": "selfstoragestaffordshire/selfstoragecodsall/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "eccleshall",
+      "path": "selfstoragestaffordshire/selfstorageeccleshall/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "fazeley",
+      "path": "selfstoragestaffordshire/selfstoragefazeley/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "fenton",
+      "path": "selfstoragestaffordshire/selfstoragefenton/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "hanley",
+      "path": "selfstoragestaffordshire/selfstoragehanley/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "hednesford",
+      "path": "selfstoragestaffordshire/selfstoragehednesford/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "kidsgrove",
+      "path": "selfstoragestaffordshire/selfstoragekidsgrove/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "leek",
+      "path": "selfstoragestaffordshire/selfstorageleek/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "lichfield",
+      "path": "selfstoragestaffordshire/selfstoragelichfield/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "longton",
+      "path": "selfstoragestaffordshire/selfstoragelongton/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "newcastle-under-lyme",
+      "path": "selfstoragestaffordshire/selfstoragenewcastle-under-lyme/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "penkridge",
+      "path": "selfstoragestaffordshire/selfstoragepenkridge/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "rugeley",
+      "path": "selfstoragestaffordshire/selfstoragerugeley/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "silverdale",
+      "path": "selfstoragestaffordshire/selfstoragesilverdale/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "stafford",
+      "path": "selfstoragestaffordshire/selfstoragestafford/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "stoke-upon-trent",
+      "path": "selfstoragestaffordshire/selfstoragestoke-upon-trent/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "tunstall",
+      "path": "selfstoragestaffordshire/selfstoragetunstall/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "uttoxeter",
+      "path": "selfstoragestaffordshire/selfstorageuttoxeter/index.html",
+      "region": "staffordshire"
+    },
+    {
+      "name": "a",
+      "path": "selfstoragestirling/selfstoragea/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "bannockburn",
+      "path": "selfstoragestirling/selfstoragebannockburn/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "bridge-of-allan",
+      "path": "selfstoragestirling/selfstoragebridge-of-allan/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "callander",
+      "path": "selfstoragestirling/selfstoragecallander/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "doune",
+      "path": "selfstoragestirling/selfstoragedoune/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "dunblane",
+      "path": "selfstoragestirling/selfstoragedunblane/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "fallin",
+      "path": "selfstoragestirling/selfstoragefallin/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "killearn",
+      "path": "selfstoragestirling/selfstoragekillearn/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "stirling",
+      "path": "selfstoragestirling/selfstoragestirling/index.html",
+      "region": "stirling"
+    },
+    {
+      "name": "aldeburgh",
+      "path": "selfstoragesuffolk/selfstoragealdeburgh/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "beccles",
+      "path": "selfstoragesuffolk/selfstoragebeccles/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "brandon",
+      "path": "selfstoragesuffolk/selfstoragebrandon/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "bungay",
+      "path": "selfstoragesuffolk/selfstoragebungay/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "bury-st-edmunds",
+      "path": "selfstoragesuffolk/selfstoragebury-st-edmunds/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "carlton-colville",
+      "path": "selfstoragesuffolk/selfstoragecarlton-colville/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "earl-soham",
+      "path": "selfstoragesuffolk/selfstorageearl-soham/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "eye",
+      "path": "selfstoragesuffolk/selfstorageeye/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "felixstowe",
+      "path": "selfstoragesuffolk/selfstoragefelixstowe/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "framlingham",
+      "path": "selfstoragesuffolk/selfstorageframlingham/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "hadleigh",
+      "path": "selfstoragesuffolk/selfstoragehadleigh/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "halesworth",
+      "path": "selfstoragesuffolk/selfstoragehalesworth/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "haverhill",
+      "path": "selfstoragesuffolk/selfstoragehaverhill/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "ipswich",
+      "path": "selfstoragesuffolk/selfstorageipswich/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "kesgrave",
+      "path": "selfstoragesuffolk/selfstoragekesgrave/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "leiston",
+      "path": "selfstoragesuffolk/selfstorageleiston/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "lowestoft",
+      "path": "selfstoragesuffolk/selfstoragelowestoft/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "mildenhall",
+      "path": "selfstoragesuffolk/selfstoragemildenhall/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "needham-market",
+      "path": "selfstoragesuffolk/selfstorageneedham-market/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "newmarket",
+      "path": "selfstoragesuffolk/selfstoragenewmarket/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "saxmundham",
+      "path": "selfstoragesuffolk/selfstoragesaxmundham/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "southwold",
+      "path": "selfstoragesuffolk/selfstoragesouthwold/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "stowmarket",
+      "path": "selfstoragesuffolk/selfstoragestowmarket/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "sudbury",
+      "path": "selfstoragesuffolk/selfstoragesudbury/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "woodbridge",
+      "path": "selfstoragesuffolk/selfstoragewoodbridge/index.html",
+      "region": "suffolk"
+    },
+    {
+      "name": "addlestone",
+      "path": "selfstoragesurrey/selfstorageaddlestone/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "ashford",
+      "path": "selfstoragesurrey/selfstorageashford/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "camberley",
+      "path": "selfstoragesurrey/selfstoragecamberley/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "caterham",
+      "path": "selfstoragesurrey/selfstoragecaterham/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "dorking",
+      "path": "selfstoragesurrey/selfstoragedorking/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "egham",
+      "path": "selfstoragesurrey/selfstorageegham/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "epsom-and-ewell",
+      "path": "selfstoragesurrey/selfstorageepsom-and-ewell/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "farnham",
+      "path": "selfstoragesurrey/selfstoragefarnham/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "godalming",
+      "path": "selfstoragesurrey/selfstoragegodalming/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "guildford",
+      "path": "selfstoragesurrey/selfstorageguildford/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "haslemere",
+      "path": "selfstoragesurrey/selfstoragehaslemere/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "horley",
+      "path": "selfstoragesurrey/selfstoragehorley/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "leatherhead",
+      "path": "selfstoragesurrey/selfstorageleatherhead/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "lightwater",
+      "path": "selfstoragesurrey/selfstoragelightwater/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "redhill",
+      "path": "selfstoragesurrey/selfstorageredhill/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "staines-upon-thames",
+      "path": "selfstoragesurrey/selfstoragestaines-upon-thames/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "walton-on-thames",
+      "path": "selfstoragesurrey/selfstoragewalton-on-thames/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "weybridge",
+      "path": "selfstoragesurrey/selfstorageweybridge/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "woking",
+      "path": "selfstoragesurrey/selfstoragewoking/index.html",
+      "region": "surrey"
+    },
+    {
+      "name": "birtley",
+      "path": "selfstoragetyne-and-wear/selfstoragebirtley/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "blaydon-on-tyne",
+      "path": "selfstoragetyne-and-wear/selfstorageblaydon-on-tyne/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "east-boldon",
+      "path": "selfstoragetyne-and-wear/selfstorageeast-boldon/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "gateshead",
+      "path": "selfstoragetyne-and-wear/selfstoragegateshead/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "hebburn",
+      "path": "selfstoragetyne-and-wear/selfstoragehebburn/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "hetton-le-hole",
+      "path": "selfstoragetyne-and-wear/selfstoragehetton-le-hole/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "houghton-le-spring",
+      "path": "selfstoragetyne-and-wear/selfstoragehoughton-le-spring/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "jarrow",
+      "path": "selfstoragetyne-and-wear/selfstoragejarrow/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "killingworth",
+      "path": "selfstoragetyne-and-wear/selfstoragekillingworth/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "newcastle-upon-tyne",
+      "path": "selfstoragetyne-and-wear/selfstoragenewcastle-upon-tyne/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "north-shields",
+      "path": "selfstoragetyne-and-wear/selfstoragenorth-shields/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "ryton",
+      "path": "selfstoragetyne-and-wear/selfstorageryton/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "south-shields",
+      "path": "selfstoragetyne-and-wear/selfstoragesouth-shields/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "sunderland",
+      "path": "selfstoragetyne-and-wear/selfstoragesunderland/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "tynemouth",
+      "path": "selfstoragetyne-and-wear/selfstoragetynemouth/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "wallsend",
+      "path": "selfstoragetyne-and-wear/selfstoragewallsend/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "washington",
+      "path": "selfstoragetyne-and-wear/selfstoragewashington/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "whickham",
+      "path": "selfstoragetyne-and-wear/selfstoragewhickham/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "whitley-bay",
+      "path": "selfstoragetyne-and-wear/selfstoragewhitley-bay/index.html",
+      "region": "tyne-and-wear"
+    },
+    {
+      "name": "alcester",
+      "path": "selfstoragewarwickshire/selfstoragealcester/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "atherstone",
+      "path": "selfstoragewarwickshire/selfstorageatherstone/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "bedworth",
+      "path": "selfstoragewarwickshire/selfstoragebedworth/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "coleshill",
+      "path": "selfstoragewarwickshire/selfstoragecoleshill/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "henley-in-arden",
+      "path": "selfstoragewarwickshire/selfstoragehenley-in-arden/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "kenilworth",
+      "path": "selfstoragewarwickshire/selfstoragekenilworth/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "nuneaton",
+      "path": "selfstoragewarwickshire/selfstoragenuneaton/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "royal-leamington-spa",
+      "path": "selfstoragewarwickshire/selfstorageroyal-leamington-spa/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "rugby",
+      "path": "selfstoragewarwickshire/selfstoragerugby/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "shipston-on-stour",
+      "path": "selfstoragewarwickshire/selfstorageshipston-on-stour/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "southam",
+      "path": "selfstoragewarwickshire/selfstoragesoutham/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "stratford-upon-avon",
+      "path": "selfstoragewarwickshire/selfstoragestratford-upon-avon/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "warwick",
+      "path": "selfstoragewarwickshire/selfstoragewarwick/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "whitnash",
+      "path": "selfstoragewarwickshire/selfstoragewhitnash/index.html",
+      "region": "warwickshire"
+    },
+    {
+      "name": "alexandria",
+      "path": "selfstoragewest-dunbartonshire/selfstoragealexandria/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "balloch",
+      "path": "selfstoragewest-dunbartonshire/selfstorageballoch/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "bonhill",
+      "path": "selfstoragewest-dunbartonshire/selfstoragebonhill/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "bowling",
+      "path": "selfstoragewest-dunbartonshire/selfstoragebowling/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "clydebank",
+      "path": "selfstoragewest-dunbartonshire/selfstorageclydebank/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "dumbarton",
+      "path": "selfstoragewest-dunbartonshire/selfstoragedumbarton/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "old-kilpatrick",
+      "path": "selfstoragewest-dunbartonshire/selfstorageold-kilpatrick/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "renton",
+      "path": "selfstoragewest-dunbartonshire/selfstoragerenton/index.html",
+      "region": "west-dunbartonshire"
+    },
+    {
+      "name": "armadale",
+      "path": "selfstoragewest-lothian/selfstoragearmadale/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "bathgate",
+      "path": "selfstoragewest-lothian/selfstoragebathgate/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "blackburn",
+      "path": "selfstoragewest-lothian/selfstorageblackburn/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "broxburn",
+      "path": "selfstoragewest-lothian/selfstoragebroxburn/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "east-calder",
+      "path": "selfstoragewest-lothian/selfstorageeast-calder/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "linlithgow",
+      "path": "selfstoragewest-lothian/selfstoragelinlithgow/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "livingston",
+      "path": "selfstoragewest-lothian/selfstoragelivingston/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "uphall",
+      "path": "selfstoragewest-lothian/selfstorageuphall/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "west-calder",
+      "path": "selfstoragewest-lothian/selfstoragewest-calder/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "whitburn",
+      "path": "selfstoragewest-lothian/selfstoragewhitburn/index.html",
+      "region": "west-lothian"
+    },
+    {
+      "name": "aldridge",
+      "path": "selfstoragewest-midlands/selfstoragealdridge/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "bilston",
+      "path": "selfstoragewest-midlands/selfstoragebilston/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "birmingham",
+      "path": "selfstoragewest-midlands/selfstoragebirmingham/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "blackheath",
+      "path": "selfstoragewest-midlands/selfstorageblackheath/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "brierley-hill",
+      "path": "selfstoragewest-midlands/selfstoragebrierley-hill/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "brownhills",
+      "path": "selfstoragewest-midlands/selfstoragebrownhills/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "castle-bromwich",
+      "path": "selfstoragewest-midlands/selfstoragecastle-bromwich/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "coventry",
+      "path": "selfstoragewest-midlands/selfstoragecoventry/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "cradley-heath",
+      "path": "selfstoragewest-midlands/selfstoragecradley-heath/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "darlaston",
+      "path": "selfstoragewest-midlands/selfstoragedarlaston/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "dudley",
+      "path": "selfstoragewest-midlands/selfstoragedudley/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "halesowen",
+      "path": "selfstoragewest-midlands/selfstoragehalesowen/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "handsworth",
+      "path": "selfstoragewest-midlands/selfstoragehandsworth/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "oldbury",
+      "path": "selfstoragewest-midlands/selfstorageoldbury/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "rowley-regis",
+      "path": "selfstoragewest-midlands/selfstoragerowley-regis/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "smethwick",
+      "path": "selfstoragewest-midlands/selfstoragesmethwick/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "solihull",
+      "path": "selfstoragewest-midlands/selfstoragesolihull/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "stourbridge",
+      "path": "selfstoragewest-midlands/selfstoragestourbridge/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "sutton-coldfield",
+      "path": "selfstoragewest-midlands/selfstoragesutton-coldfield/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "tipton",
+      "path": "selfstoragewest-midlands/selfstoragetipton/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "walsall",
+      "path": "selfstoragewest-midlands/selfstoragewalsall/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "wednesbury",
+      "path": "selfstoragewest-midlands/selfstoragewednesbury/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "west-bromwich",
+      "path": "selfstoragewest-midlands/selfstoragewest-bromwich/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "willenhall",
+      "path": "selfstoragewest-midlands/selfstoragewillenhall/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "wolverhampton",
+      "path": "selfstoragewest-midlands/selfstoragewolverhampton/index.html",
+      "region": "west-midlands"
+    },
+    {
+      "name": "arundel",
+      "path": "selfstoragewest-sussex/selfstoragearundel/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "bognor-regis",
+      "path": "selfstoragewest-sussex/selfstoragebognor-regis/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "burgess-hill",
+      "path": "selfstoragewest-sussex/selfstorageburgess-hill/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "chichester",
+      "path": "selfstoragewest-sussex/selfstoragechichester/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "crawley",
+      "path": "selfstoragewest-sussex/selfstoragecrawley/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "east-grinstead",
+      "path": "selfstoragewest-sussex/selfstorageeast-grinstead/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "haywards-heath",
+      "path": "selfstoragewest-sussex/selfstoragehaywards-heath/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "horsham",
+      "path": "selfstoragewest-sussex/selfstoragehorsham/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "littlehampton",
+      "path": "selfstoragewest-sussex/selfstoragelittlehampton/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "midhurst",
+      "path": "selfstoragewest-sussex/selfstoragemidhurst/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "petworth",
+      "path": "selfstoragewest-sussex/selfstoragepetworth/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "selsey",
+      "path": "selfstoragewest-sussex/selfstorageselsey/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "shoreham-by-sea",
+      "path": "selfstoragewest-sussex/selfstorageshoreham-by-sea/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "southwick",
+      "path": "selfstoragewest-sussex/selfstoragesouthwick/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "steyning",
+      "path": "selfstoragewest-sussex/selfstoragesteyning/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "westerham",
+      "path": "selfstoragewest-sussex/selfstoragewesterham/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "worthing",
+      "path": "selfstoragewest-sussex/selfstorageworthing/index.html",
+      "region": "west-sussex"
+    },
+    {
+      "name": "baildon",
+      "path": "selfstoragewest-yorkshire/selfstoragebaildon/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "batley",
+      "path": "selfstoragewest-yorkshire/selfstoragebatley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "bingley",
+      "path": "selfstoragewest-yorkshire/selfstoragebingley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "bradford",
+      "path": "selfstoragewest-yorkshire/selfstoragebradford/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "bradford--interesting-below-near-low-moor-",
+      "path": "selfstoragewest-yorkshire/selfstoragebradford--interesting-below-near-low-moor-/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "brighouse",
+      "path": "selfstoragewest-yorkshire/selfstoragebrighouse/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "castleford",
+      "path": "selfstoragewest-yorkshire/selfstoragecastleford/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "cleckheaton",
+      "path": "selfstoragewest-yorkshire/selfstoragecleckheaton/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "denholme",
+      "path": "selfstoragewest-yorkshire/selfstoragedenholme/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "dewsbury",
+      "path": "selfstoragewest-yorkshire/selfstoragedewsbury/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "elland",
+      "path": "selfstoragewest-yorkshire/selfstorageelland/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "featherstone",
+      "path": "selfstoragewest-yorkshire/selfstoragefeatherstone/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "guiseley",
+      "path": "selfstoragewest-yorkshire/selfstorageguiseley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "halifax",
+      "path": "selfstoragewest-yorkshire/selfstoragehalifax/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "hebden-bridge",
+      "path": "selfstoragewest-yorkshire/selfstoragehebden-bridge/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "heckmondwike",
+      "path": "selfstoragewest-yorkshire/selfstorageheckmondwike/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "holmfirth",
+      "path": "selfstoragewest-yorkshire/selfstorageholmfirth/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "horbury",
+      "path": "selfstoragewest-yorkshire/selfstoragehorbury/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "horsforth",
+      "path": "selfstoragewest-yorkshire/selfstoragehorsforth/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "huddersfield",
+      "path": "selfstoragewest-yorkshire/selfstoragehuddersfield/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "ilkley",
+      "path": "selfstoragewest-yorkshire/selfstorageilkley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "keighley",
+      "path": "selfstoragewest-yorkshire/selfstoragekeighley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "knottingley",
+      "path": "selfstoragewest-yorkshire/selfstorageknottingley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "leeds",
+      "path": "selfstoragewest-yorkshire/selfstorageleeds/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "meltham",
+      "path": "selfstoragewest-yorkshire/selfstoragemeltham/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "mirfield",
+      "path": "selfstoragewest-yorkshire/selfstoragemirfield/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "morley",
+      "path": "selfstoragewest-yorkshire/selfstoragemorley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "normanton",
+      "path": "selfstoragewest-yorkshire/selfstoragenormanton/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "ossett",
+      "path": "selfstoragewest-yorkshire/selfstorageossett/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "otley",
+      "path": "selfstoragewest-yorkshire/selfstorageotley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "pontefract",
+      "path": "selfstoragewest-yorkshire/selfstoragepontefract/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "pudsey",
+      "path": "selfstoragewest-yorkshire/selfstoragepudsey/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "rothwell",
+      "path": "selfstoragewest-yorkshire/selfstoragerothwell/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "shipley",
+      "path": "selfstoragewest-yorkshire/selfstorageshipley/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "silsden",
+      "path": "selfstoragewest-yorkshire/selfstoragesilsden/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "south-elmsall",
+      "path": "selfstoragewest-yorkshire/selfstoragesouth-elmsall/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "sowerby-bridge",
+      "path": "selfstoragewest-yorkshire/selfstoragesowerby-bridge/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "todmorden",
+      "path": "selfstoragewest-yorkshire/selfstoragetodmorden/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "wakefield-district",
+      "path": "selfstoragewest-yorkshire/selfstoragewakefield-district/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "wetherby",
+      "path": "selfstoragewest-yorkshire/selfstoragewetherby/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "yeadon",
+      "path": "selfstoragewest-yorkshire/selfstorageyeadon/index.html",
+      "region": "west-yorkshire"
+    },
+    {
+      "name": "amesbury",
+      "path": "selfstoragewiltshire/selfstorageamesbury/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "bradford-on-avon",
+      "path": "selfstoragewiltshire/selfstoragebradford-on-avon/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "calne",
+      "path": "selfstoragewiltshire/selfstoragecalne/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "chippenham",
+      "path": "selfstoragewiltshire/selfstoragechippenham/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "corsham",
+      "path": "selfstoragewiltshire/selfstoragecorsham/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "cricklade",
+      "path": "selfstoragewiltshire/selfstoragecricklade/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "devizes",
+      "path": "selfstoragewiltshire/selfstoragedevizes/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "ludgershall",
+      "path": "selfstoragewiltshire/selfstorageludgershall/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "malmesbury",
+      "path": "selfstoragewiltshire/selfstoragemalmesbury/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "marlborough",
+      "path": "selfstoragewiltshire/selfstoragemarlborough/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "melksham",
+      "path": "selfstoragewiltshire/selfstoragemelksham/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "mere",
+      "path": "selfstoragewiltshire/selfstoragemere/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "salisbury",
+      "path": "selfstoragewiltshire/selfstoragesalisbury/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "swindon",
+      "path": "selfstoragewiltshire/selfstorageswindon/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "tidworth",
+      "path": "selfstoragewiltshire/selfstoragetidworth/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "trowbridge",
+      "path": "selfstoragewiltshire/selfstoragetrowbridge/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "warminster",
+      "path": "selfstoragewiltshire/selfstoragewarminster/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "westbury",
+      "path": "selfstoragewiltshire/selfstoragewestbury/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "wilton",
+      "path": "selfstoragewiltshire/selfstoragewilton/index.html",
+      "region": "wiltshire"
+    },
+    {
+      "name": "bewdley",
+      "path": "selfstorageworcestershire/selfstoragebewdley/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "bromsgrove",
+      "path": "selfstorageworcestershire/selfstoragebromsgrove/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "droitwich-spa",
+      "path": "selfstorageworcestershire/selfstoragedroitwich-spa/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "evesham",
+      "path": "selfstorageworcestershire/selfstorageevesham/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "kidderminster",
+      "path": "selfstorageworcestershire/selfstoragekidderminster/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "malvern",
+      "path": "selfstorageworcestershire/selfstoragemalvern/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "pershore",
+      "path": "selfstorageworcestershire/selfstoragepershore/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "redditch",
+      "path": "selfstorageworcestershire/selfstorageredditch/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "stourport-on-severn",
+      "path": "selfstorageworcestershire/selfstoragestourport-on-severn/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "tenbury-wells",
+      "path": "selfstorageworcestershire/selfstoragetenbury-wells/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "upton-upon-severn",
+      "path": "selfstorageworcestershire/selfstorageupton-upon-severn/index.html",
+      "region": "worcestershire"
+    },
+    {
+      "name": "worcester",
+      "path": "selfstorageworcestershire/selfstorageworcester/index.html",
+      "region": "worcestershire"
+    }
+  ]
+}

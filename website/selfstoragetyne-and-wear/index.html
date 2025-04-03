@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Self Storage in Tyne And Wear - Find Storage Units Near You</title>
+<link href="../assets/css/style.css" rel="stylesheet"/>
+<meta content="Find the best self storage facilities in Tyne And Wear. Compare prices, features, and availability of storage units near you." name="description"/>
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16x16.png"/></head>
+<body><header><div class="container">
+<div class="logo">Storage Finder</div>
+<nav>
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a href="../selfstorageregions/index.html">Regions</a></li>
+<li><a href="../faq/index.html">FAQ</a></li>
+<li><a href="../about/index.html">About</a></li>
+<li><a href="../contact/index.html">Contact</a></li>
+
+<li><a href="../calculator/index.html">Storage Calculator</a></li>
+<li><a href="../blog/index.html">Blog</a></li></ul></nav>
+</div></header><div class="container"><div class="region-intro"><div class="breadcrumbs"><a href="../index.html">Home</a> &gt; <a href="../selfstorageregions/index.html">Regions</a> &gt; <span>Tyne And Wear</span></div><h1>Self Storage in Tyne and Wear</h1><p>Find the best self storage facilities in Tyne and Wear. We have 19 locations available.</p></div><div class="search-form"><input facility="Search for a city in Tyne And Wear..." id="citySearch" storage="" type="text"/><button onclick="searchCity()">Search</button></div><h2 id="search-results-heading">Cities with Self Storage in Tyne And Wear</h2>
+<div class="container">
+<h2>Cities in Tyne and Wear</h2>
+<div class="cities-grid"><div class="city-card"><h3>Birtley</h3><p>5 Storage Facilities</p><a href="selfstoragebirtley/index.html">View Storage Options</a></div><div class="city-card"><h3>Blaydon-on-Tyne</h3><p>1 Storage Facility</p><a href="selfstorageblaydon-on-tyne/index.html">View Storage Options</a></div><div class="city-card"><h3>Gateshead</h3><p>3 Storage Facilities</p><a href="selfstoragegateshead/index.html">View Storage Options</a></div><div class="city-card"><h3>Hebburn</h3><p>1 Storage Facility</p><a href="selfstoragehebburn/index.html">View Storage Options</a></div><div class="city-card"><h3>Hetton-le-Hole</h3><p>1 Storage Facility</p><a href="selfstoragehetton-le-hole/index.html">View Storage Options</a></div><div class="city-card"><h3>Houghton-le-Spring</h3><p>2 Storage Facilities</p><a href="selfstoragehoughton-le-spring/index.html">View Storage Options</a></div><div class="city-card"><h3>Sunderland</h3><p>9 Storage Facilities</p><a href="selfstoragesunderland/index.html">View Storage Options</a></div><div class="city-card"><h3>Jarrow</h3><p>1 Storage Facility</p><a href="selfstoragejarrow/index.html">View Storage Options</a></div><div class="city-card"><h3>Killingworth</h3><p>1 Storage Facility</p><a href="selfstoragekillingworth/index.html">View Storage Options</a></div><div class="city-card"><h3>North Shields</h3><p>3 Storage Facilities</p><a href="selfstoragenorth-shields/index.html">View Storage Options</a></div><div class="city-card"><h3>Ryton</h3><p>6 Storage Facilities</p><a href="selfstorageryton/index.html">View Storage Options</a></div><div class="city-card"><h3>South Shields</h3><p>1 Storage Facility</p><a href="selfstoragesouth-shields/index.html">View Storage Options</a></div><div class="city-card"><h3>East Boldon</h3><p>1 Storage Facility</p><a href="selfstorageeast-boldon/index.html">View Storage Options</a></div><div class="city-card"><h3>Tynemouth</h3><p>1 Storage Facility</p><a href="selfstoragetynemouth/index.html">View Storage Options</a></div><div class="city-card"><h3>Wallsend</h3><p>1 Storage Facility</p><a href="selfstoragewallsend/index.html">View Storage Options</a></div><div class="city-card"><h3>Washington</h3><p>3 Storage Facilities</p><a href="selfstoragewashington/index.html">View Storage Options</a></div><div class="city-card"><h3>Whickham</h3><p>1 Storage Facility</p><a href="selfstoragewhickham/index.html">View Storage Options</a></div><div class="city-card"><h3>Whitley Bay</h3><p>1 Storage Facility</p><a href="selfstoragewhitley-bay/index.html">View Storage Options</a></div><div class="city-card"><h3>Newcastle upon Tyne</h3><p>5 Storage Facilities</p><a href="selfstoragenewcastle-upon-tyne/index.html">View Storage Options</a></div></div>
+</div>
+</div><footer><div class="container"><div class="footer-columns"><div class="footer-column"><h3>Legal</h3><ul><li><a href="../privacy/index.html">Privacy Policy</a></li><li><a href="../terms/index.html">Terms of Use</a></li><li><a href="../membership/index.html">Membership Terms</a></li></ul></div><div class="footer-column"><h3>Navigate</h3><ul><li><a href="../index.html">Home</a></li><li><a href="../selfstorageregions/index.html">Regions</a></li><li><a href="../faq/index.html">FAQ</a></li><li><a href="../sitemap.xml">Sitemap</a></li></ul></div><div class="footer-column"><h3>Company</h3><ul><li><a href="../about/index.html">About Us</a></li><li><a href="../contact/index.html">Contact</a></li></ul></div></div><div class="footer-bottom"><p>© 2025 Storage Finder. All rights reserved.</p></div></div></footer><script>
+function searchCity() {
+    var input = document.getElementById('citySearch').value.toLowerCase();
+    var cards = document.querySelectorAll('.city-card');
+    var resultsHeading = document.getElementById('search-results-heading');
+    var foundCount = 0;
+    
+    cards.forEach(function(card) {
+        var cityName = card.querySelector('h3').innerText.toLowerCase();
+        
+        if (cityName.includes(input)) {
+            card.style.display = 'block';
+            foundCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+    
+    if (input === '') {
+        resultsHeading.innerText = 'Cities with Self Storage in Tyne And Wear';
+    } else if (foundCount === 0) {
+        resultsHeading.innerText = 'No cities found matching "' + input + '"';
+    } else {
+        resultsHeading.innerText = 'Cities matching "' + input + '"';
+    }
+}
+</script></body>
+</html>

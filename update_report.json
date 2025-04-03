@@ -1,0 +1,7561 @@
+{
+  "timestamp": "2025-03-21 13:17:39",
+  "mode": "update",
+  "cities_processed": 1258,
+  "success_count": 1258,
+  "error_count": 0,
+  "city_results": [
+    {
+      "city_key": "aberdeen-city/aberdeen",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "aberdeenshire/aboyne",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "aberdeenshire/alford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "aberdeenshire/banchory",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "aberdeenshire/banff",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "aberdeenshire/ellon",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "aberdeenshire/fraserburgh",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "aberdeenshire/huntly",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "aberdeenshire/inverurie",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "aberdeenshire/kemnay",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "aberdeenshire/kintore",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "aberdeenshire/laurencekirk",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "aberdeenshire/macduff",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "aberdeenshire/mintlaw",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "aberdeenshire/oldmeldrum",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "aberdeenshire/peterhead",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "aberdeenshire/portlethen",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "aberdeenshire/stonehaven",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "aberdeenshire/turriff",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "aberdeenshire/westhill",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "angus/arbroath",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "angus/brechin",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "angus/carnoustie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "angus/forfar",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "angus/kirriemuir",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "angus/monifieth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "angus/montrose",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "argyll-and-bute/campbeltown",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "argyll-and-bute/dunoon",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "argyll-and-bute/helensburgh",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "argyll-and-bute/oban",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "argyll-and-bute/rothesay",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "bedfordshire/ampthill",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "bedfordshire/arlesey",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "bedfordshire/bedford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "bedfordshire/biggleswade",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "bedfordshire/dunstable",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "bedfordshire/flitwick",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "bedfordshire/houghton-regis",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "bedfordshire/kempston",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "bedfordshire/leighton-buzzard",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "bedfordshire/linslade",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "bedfordshire/luton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "bedfordshire/potton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "bedfordshire/sandy",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "bedfordshire/shefford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "bedfordshire/stotfold",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "bedfordshire/wixams",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "berkshire/bracknell",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "berkshire/crowthorne",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "berkshire/eton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "berkshire/hungerford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "berkshire/maidenhead",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "berkshire/newbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "berkshire/reading",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "berkshire/sandhurst",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "berkshire/slough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "berkshire/thatcham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "berkshire/windsor",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "berkshire/wokingham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "bristol/bristol",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "buckinghamshire/amersham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "buckinghamshire/aylesbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "buckinghamshire/beaconsfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "buckinghamshire/buckingham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "buckinghamshire/chesham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "buckinghamshire/gerrards-cross",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "buckinghamshire/hazlemere",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "buckinghamshire/high-wycombe",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "buckinghamshire/milton-keynes",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "buckinghamshire/olney",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "buckinghamshire/princes-risborough",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "buckinghamshire/wendover",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "buckinghamshire/winslow",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cambridgeshire/cambridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cambridgeshire/chatteris",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cambridgeshire/ely",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cambridgeshire/huntingdon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cambridgeshire/march",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cambridgeshire/peterborough",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cambridgeshire/ramsey",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cambridgeshire/sawtry",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cambridgeshire/soham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cambridgeshire/st-ives",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cambridgeshire/st-neots",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cambridgeshire/whittlesey",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cambridgeshire/wisbech",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/alsager",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cheshire/bollington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/chester",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/congleton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/crewe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/ellesmere-port",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cheshire/frodsham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/handforth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/knutsford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/macclesfield",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cheshire/middlewich",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cheshire/nantwich",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cheshire/neston",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/northwich",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cheshire/poynton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/runcorn",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cheshire/sandbach",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cheshire/warrington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cheshire/widnes",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/wilmslow",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cheshire/winsford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "city-of-edinburgh/edinburgh",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "city-of-london/london",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "clackmannanshire/alloa",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "clackmannanshire/alva",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "clackmannanshire/clackmannan",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "clackmannanshire/dollar",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "clackmannanshire/tillicoultry",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "clackmannanshire/tullibody",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cornwall/bodmin",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/bude",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cornwall/callington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cornwall/camborne",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cornwall/camelford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/falmouth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/fowey",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/hayle",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cornwall/helston",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cornwall/launceston",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cornwall/liskeard",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cornwall/looe",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cornwall/lostwithiel",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cornwall/marazion",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cornwall/newlyn",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/newquay",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/padstow",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cornwall/penryn",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cornwall/penzance",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cornwall/redruth--it-is-next-to-camborne-also-",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cornwall/st-austell",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cornwall/st-columb",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cornwall/st-ives",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cornwall/st-just-in-penwith",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cornwall/torpoint",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cornwall/truro",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cornwall/wadebridge",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/ambleside",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cumbria/appleby-in-westmorland",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cumbria/aspatria",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cumbria/barrow-in-furness",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/carlisle",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cumbria/cleator-moor",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/cockermouth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cumbria/egremont",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "cumbria/grange-over-sands",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "cumbria/keswick",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cumbria/kirkby-lonsdale",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/kirkby-stephen",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/maryport",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cumbria/millom",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cumbria/penrith",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cumbria/sedbergh",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cumbria/ulverston",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "cumbria/whitehaven",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "cumbria/wigton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "cumbria/windermere",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "cumbria/workington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/alfreton-is-close-to-swanick-and-leabrooks",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "derbyshire/ashbourne",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "derbyshire/bakewell",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "derbyshire/belper",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "derbyshire/bolsover",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/buxton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "derbyshire/chapel-en-le-frith",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "derbyshire/chesterfield",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "derbyshire/clay-cross",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "derbyshire/darley-dale",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "derbyshire/derby",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/dronfield",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "derbyshire/eckington",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "derbyshire/glossop",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/ilkeston",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "derbyshire/matlock",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "derbyshire/melbourne",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/new-mills",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "derbyshire/ripley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "derbyshire/shirebrook",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "derbyshire/staveley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "derbyshire/swadlincote",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "derbyshire/whaley-bridge",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "derbyshire/wirksworth",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/ashburton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/axminster",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/barnstaple",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "devon/bideford",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/brixham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/buckfastleigh",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/chagford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/crediton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "devon/cullompton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/dartmouth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "devon/dawlish",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "devon/exeter",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "devon/exmouth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "devon/great-torrington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/holsworthy",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/honiton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/ilfracombe",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "devon/ivybridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/kingsbridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/kingsteignton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "devon/lynton-and-lynmouth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/newton-abbot",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "devon/okehampton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "devon/ottery-st-mary",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "devon/paignton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/plymouth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/seaton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "devon/sidmouth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "devon/south-molton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "devon/tavistock",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/teignmouth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/tiverton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "devon/torquay",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "devon/totnes",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/beaminster",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/blandford-forum",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/bournemouth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "dorset/bridport",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "dorset/christchurch",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "dorset/dorchester",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "dorset/gillingham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "dorset/lyme-regis",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "dorset/poole",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "dorset/shaftesbury",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/sherborne",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/stalbridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "dorset/sturminster-newton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dorset/swanage",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "dorset/verwood",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "dorset/weymouth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "dorset/wimborne-minster",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dumfries-and-galloway/annan",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dumfries-and-galloway/castle-douglas",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "dumfries-and-galloway/dalbeattie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "dumfries-and-galloway/dumfries",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "dumfries-and-galloway/gretna",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "dumfries-and-galloway/kirkcudbright",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "dumfries-and-galloway/locharbriggs",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dumfries-and-galloway/lockerbie",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dumfries-and-galloway/newton-stewart",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "dumfries-and-galloway/stranraer",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "dundee-city/dundee",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "durham/barnard-castle",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "durham/billingham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "durham/bishop-auckland",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "durham/chester-le-street--nothing-inthe-actual-area-",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "durham/consett",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "durham/crook",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "durham/darlington",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "durham/ferryhill",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "durham/newton-aycliffe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "durham/peterlee",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "durham/seaham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "durham/sedgefield",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "durham/shildon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "durham/spennymoor",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "durham/stanley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "durham/stockton-on-tees",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "durham/tow-law",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-ayrshire/auchinleck",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-ayrshire/catrine",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-ayrshire/cumnock",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-ayrshire/dalmellington",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-ayrshire/darvel",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-ayrshire/galston",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-ayrshire/hurlford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-ayrshire/kilmarnock",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-ayrshire/kilmaurs",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-ayrshire/mauchline",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-ayrshire/muirkirk",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-ayrshire/newmilns",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-ayrshire/stewarton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-dunbartonshire/bearsden",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-dunbartonshire/bishopbriggs",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-dunbartonshire/kirkintilloch",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-dunbartonshire/lenzie",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-dunbartonshire/milngavie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-dunbartonshire/torrance",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-lothian/cockenzie",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-lothian/dunbar",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-lothian/east-linton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-lothian/gullane",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-lothian/haddington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-lothian/longniddry",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-lothian/musselburgh",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-lothian/north-berwick",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-lothian/prestonpans",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-lothian/tranent",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-renfrewshire/barrhead",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-renfrewshire/busby",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-renfrewshire/clarkston",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-renfrewshire/eaglesham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-renfrewshire/giffnock",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-renfrewshire/neilston",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-renfrewshire/newton-mearns",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-renfrewshire/thornliebank",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-sussex/battle",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-sussex/brighton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-sussex/crowborough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-sussex/eastbourne",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-sussex/hailsham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-sussex/hastings",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-sussex/heathfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-sussex/lewes",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "east-sussex/newhaven",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-sussex/peacehaven",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-sussex/polegate",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-sussex/rye",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-sussex/seaford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-sussex/uckfield",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-sussex/wadhurst",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-sussex/winchelsea",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-yorkshire/anlaby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/beverley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/bridlington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/driffield",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/goole",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-yorkshire/hedon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/hessle",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "east-yorkshire/hornsea",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "east-yorkshire/howden",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-yorkshire/kingston-upon-hull--hull-",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "east-yorkshire/market-weighton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-yorkshire/pocklington",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "east-yorkshire/willerby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "east-yorkshire/withernsea",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/balivanich",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/castlebay",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/leverburgh",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/lochmaddy",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/stornoway",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "eilean-siar--western-isles-/tarbert",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/aveley",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/basildon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/billericay",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "essex/braintree",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "essex/brentwood--essex-town-",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/brightlingsea",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/burnham-on-crouch",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/canvey-island",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "essex/chelmsford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "essex/chigwell",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/clacton-on-sea",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "essex/coggeshall",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/colchester--town-",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/corringham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/epping",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "essex/grays",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "essex/great-dunmow",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/hadleigh",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/halstead",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "essex/harlow",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "essex/harwich",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "essex/loughton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "essex/maldon",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/north-benfleet",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/purfleet",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/rayleigh",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/saffron-walden",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/southend-on-sea--town-",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/thaxted",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/tilbury",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/waltham-abbey",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/walton-on-the-naze",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/west-mersea",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "essex/witham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "essex/wivenhoe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "falkirk/bo-ness--bo-ness-and-kinneil-",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "falkirk/bonnybridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "falkirk/denny",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "falkirk/falkirk",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "falkirk/grangemouth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "falkirk/larbert",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "falkirk/polmont",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "fife/anstruther",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "fife/burntisland",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "fife/cowdenbeath",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "fife/cupar",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "fife/dunfermline",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "fife/glenrothes",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "fife/inverkeithing",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "fife/kirkcaldy",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "fife/leven",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "fife/lochgelly",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "fife/methil",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "fife/newport-on-tay",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "fife/rosyth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "fife/st-andrews",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "fife/tayport",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "glasgow-city/glasgow",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/berkeley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "gloucestershire/bradley-stoke",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/cheltenham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/chipping-campden",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/chipping-sodbury",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/cinderford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/cirencester",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "gloucestershire/coleford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/dursley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/emersons-green",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/fairford",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/filton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/gloucester",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/kingswood",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/lechlade-on-thames",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/lydney",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/minchinhampton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/mitcheldean",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "gloucestershire/moreton-in-marsh",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/nailsworth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "gloucestershire/newent",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/northleach",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/painswick",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/patchway",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "gloucestershire/quedgeley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/stonehouse",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "gloucestershire/stow-on-the-wold",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "gloucestershire/stroud",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/tewkesbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "gloucestershire/thornbury",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "gloucestershire/winchcombe",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "gloucestershire/wotton-under-edge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "gloucestershire/yate",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-london/brentford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-london/carshalton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-london/coulsdon",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-london/croydon",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-london/dagenham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-london/enfield",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-london/harrow",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-london/hayes",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-london/holloway",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-london/hounslow",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-london/ilford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-london/northolt",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-london/orpington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-london/romford",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-london/ruislip",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-london/southall",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-london/sutton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-london/twickenham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-london/upminster",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-london/uxbridge",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-london/wembley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-london/west-drayton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-manchester/altrincham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-manchester/ashton-in-makerfield",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/ashton-under-lyne",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/atherton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/bolton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/bury",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/chadderton-doesnt-seem-to-be-a-lot-of-internet-presence",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/cheadle",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/cheadle-hulme",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/droylsden",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/dukinfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/eccles",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/farnworth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/heywood",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-manchester/horwich",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/hyde",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/leigh",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/littleborough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/manchester",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/marple",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/middleton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "greater-manchester/oldham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-manchester/prestwich",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/radcliffe",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/ramsbottom",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/rochdale",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/sale",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "greater-manchester/salford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/shaw-and-crompton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/stalybridge",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/stockport",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "greater-manchester/stretford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "greater-manchester/swinton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/tyldesley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/westhoughton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "greater-manchester/whitefield",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "greater-manchester/wigan",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hampshire/aldershot",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/alton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hampshire/andover",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hampshire/basingstoke",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/bordon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hampshire/eastleigh",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/fareham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hampshire/farnborough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hampshire/gosport",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "hampshire/havant-good-and-has-surrounding-areas-with-no-storage",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/hedge-end",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "hampshire/lymington",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hampshire/new-alresford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hampshire/new-milton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hampshire/petersfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/portsmouth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/ringwood",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hampshire/romsey",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hampshire/southampton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hampshire/stockbridge",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hampshire/tadley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hampshire/waterlooville-and-surrounding-areas",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hampshire/whitchurch",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hampshire/winchester",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "herefordshire/bromyard",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "herefordshire/hereford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "herefordshire/ledbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "herefordshire/leominster",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "herefordshire/ross-on-wye",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/baldock",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "hertfordshire/berkhamsted",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hertfordshire/bishop-s-stortford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/borehamwood",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hertfordshire/broxbourne",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hertfordshire/cheshunt",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/harpenden",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hertfordshire/hatfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/hemel-hempstead",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hertfordshire/hertford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hertfordshire/hitchin",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "hertfordshire/hoddesdon",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "hertfordshire/letchworth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/potters-bar-looks-like-there-is-no-self-storage-only-crate-storage",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/rickmansworth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/royston",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/sawbridgeworth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/st-albans",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/stevenage",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/tring",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "hertfordshire/waltham-cross",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "hertfordshire/ware",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hertfordshire/watford",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "hertfordshire/welwyn-garden-city",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "highland/alness",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "highland/aviemore",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "highland/dingwall",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "highland/fort-william",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "highland/grantown-on-spey",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "highland/inverness",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "highland/nairn",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "highland/tain",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "highland/thurso",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "highland/wick",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "inverclyde/bridge-of-weir",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "inverclyde/gourock",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "inverclyde/greenock",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "inverclyde/inverkip",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "inverclyde/kilmacolm",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "inverclyde/langbank",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "inverclyde/port-glasgow",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "inverclyde/quarrier-s-village",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "inverclyde/wemyss-bay",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "isle-of-wight/brading",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "isle-of-wight/cowes",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "isle-of-wight/east-cowes",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "isle-of-wight/newport",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "isle-of-wight/ryde",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "isle-of-wight/yarmouth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/ashford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/broadstairs",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/bromley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "kent/canterbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/chatham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "kent/cranbrook",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/deal",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/dover",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/edenbridge",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/faversham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/folkestone",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "kent/gillingham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/gravesend",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/hawkinge",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/herne-bay",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/hythe",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/kennington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/maidstone",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/margate",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/new-romney",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "kent/paddock-wood",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "kent/ramsgate",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/rochester",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/sandwich",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "kent/sevenoaks",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "kent/sheerness",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/sittingbourne",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/snodland",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "kent/swanley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "kent/tenterden",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "kent/tonbridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/tunbridge-wells",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "kent/westerham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "kent/whitstable",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/accrington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/adlington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/bacup",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lancashire/barnoldswick",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/blackburn",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/blackpool",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/burnley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/burscough",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lancashire/carnforth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/chorley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/clayton-le-moors",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/cleveleys",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lancashire/clitheroe",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/colne",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/darwen--need-to-look-more-into-",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/fleetwood",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/garstang",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/great-harwood",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/haslingden",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/kirkham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/lancaster",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/leyland",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/longridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/lytham-st-annes",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/morecambe-need-to-check-but-looks-like-that-is-it",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/nelson",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/ormskirk",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/oswaldtwistle",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/padiham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lancashire/penwortham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/poulton-le-fylde",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lancashire/preesall",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/preston",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lancashire/rawtenstall",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lancashire/rishton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lancashire/skelmersdale",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lancashire/whitworth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "leicestershire/ashby-de-la-zouch",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "leicestershire/aylestone",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "leicestershire/braunstone-town",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "leicestershire/castle-donington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "leicestershire/coalville",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "leicestershire/earl-shilton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "leicestershire/enderby",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "leicestershire/hinckley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "leicestershire/leicester",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "leicestershire/loughborough",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "leicestershire/lutterworth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "leicestershire/market-bosworth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "leicestershire/market-harborough",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "leicestershire/melton-mowbray",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "leicestershire/oadby-and-wigston",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "leicestershire/shepshed",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "leicestershire/syston",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/alford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/barton-upon-humber",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/boston",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/bourne",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/bracebridge-heath",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lincolnshire/brigg",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lincolnshire/broughton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lincolnshire/burgh-le-marsh",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/caistor",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lincolnshire/crowland",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lincolnshire/crowle",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lincolnshire/epworth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/gainsborough",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/grantham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lincolnshire/grimsby",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/holbeach",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lincolnshire/horncastle",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/immingham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/kirton-in-lindsey",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "lincolnshire/lincoln",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/long-sutton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/louth",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/mablethorpe",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/market-deeping",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lincolnshire/market-rasen",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/north-hykeham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/scunthorpe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/skegness",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/sleaford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "lincolnshire/spalding",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/spilsby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "lincolnshire/stamford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "lincolnshire/wainfleet-all-saints",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "lincolnshire/winterton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "lincolnshire/wragby",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/aigburth",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "merseyside/ainsdale",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "merseyside/ashton-in-makerfield",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "merseyside/bebington",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "merseyside/birkenhead",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "merseyside/bootle",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/bromborough",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "merseyside/crosby",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/formby",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "merseyside/halewood",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/heswall",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "merseyside/hoylake",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/huyton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "merseyside/litherland",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "merseyside/liverpool",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "merseyside/maghull",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "merseyside/moreton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "merseyside/newton-le-willows",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "merseyside/prescot",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "merseyside/southport",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "merseyside/st-helens",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "merseyside/wallasey",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "merseyside/wavertree",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "merseyside/west-kirby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "midlothian/auchendinny",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "midlothian/bonnyrigg",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "midlothian/dalkeith",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "midlothian/gorebridge",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "midlothian/lasswade",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "midlothian/loanhead",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "midlothian/newtongrange",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "midlothian/pathhead",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "midlothian/penicuik",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "midlothian/roslin",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "moray/aberlour",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "moray/buckie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "moray/burghead",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "moray/dufftown",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "moray/elgin",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "moray/forres",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "moray/hopeman",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "moray/keith",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "moray/lossiemouth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "moray/rothes",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "norfolk/acle",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "norfolk/attleborough",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "norfolk/aylsham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "norfolk/cromer",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/dereham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/diss",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "norfolk/fakenham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/gorleston-on-sea",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "norfolk/great-yarmouth",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "norfolk/hingham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "norfolk/holt",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "norfolk/hunstanton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "norfolk/king-s-lynn-and-west-norfolk",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "norfolk/loddon",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "norfolk/long-stratton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "norfolk/north-walsham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/reepham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "norfolk/sheringham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/sprowston",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "norfolk/stalham-and-sutton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "norfolk/swaffham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "norfolk/thetford",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "norfolk/thorpe-st-andrew",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "norfolk/watton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "norfolk/wymondham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-ayrshire/ardrossan",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "north-ayrshire/beith",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-ayrshire/dalry",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-ayrshire/irvine",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-ayrshire/kilbirnie",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "north-ayrshire/largs",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-ayrshire/millport",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "north-ayrshire/saltcoats",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-ayrshire/stevenston",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-ayrshire/west-kilbride",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "north-lanarkshire/airdrie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-lanarkshire/bellshill",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-lanarkshire/chryston",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-lanarkshire/coatbridge",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-lanarkshire/cumbernauld",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-lanarkshire/kilsyth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-lanarkshire/motherwell",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-lanarkshire/shotts",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-lanarkshire/stepps",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-lanarkshire/wishaw",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/bedale",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/bentham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/boroughbridge",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/easingwold",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/filey",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/grassington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/guisborough",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/harrogate",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/hawes",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "north-yorkshire/haxby",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/helmsley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/kirkbymoorside",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/knaresborough",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/leyburn",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/loftus",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/malton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/masham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/middleham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/middlesbrough",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/northallerton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/norton-on-derwent",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/pateley-bridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/pickering",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/redcar",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/richmond",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/ripon",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/scarborough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/selby",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "north-yorkshire/settle",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/skelton-in-cleveland",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/skipton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/stockton-on-tees-south-of-the-river-tees",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/stokesley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/tadcaster",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "north-yorkshire/thirsk",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/thornaby-on-tees",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "north-yorkshire/whitby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "north-yorkshire/yarm",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "north-yorkshire/york",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/brackley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/burton-latimer",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/corby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northamptonshire/daventry",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northamptonshire/desborough",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/finedon",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/higham-ferrers",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "northamptonshire/irthlingborough",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northamptonshire/kettering",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "northamptonshire/northampton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "northamptonshire/oundle",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "northamptonshire/raunds",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "northamptonshire/rothwell",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northamptonshire/rushden",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northamptonshire/thrapston",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "northamptonshire/towcester",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "northamptonshire/wellingborough",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "northumberland/alnwick",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northumberland/amble",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "northumberland/ashington",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "northumberland/bedlington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northumberland/berwick-upon-tweed",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "northumberland/blyth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "northumberland/cramlington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northumberland/haltwhistle",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "northumberland/hexham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "northumberland/morpeth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "northumberland/newbiggin-by-the-sea",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "northumberland/prudhoe",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "northumberland/rothbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "northumberland/wooler",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "nottinghamshire/arnold",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "nottinghamshire/beeston",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "nottinghamshire/bingham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "nottinghamshire/bulwell",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "nottinghamshire/cotgrave",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "nottinghamshire/eastwood",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "nottinghamshire/hucknall",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "nottinghamshire/kimberley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "nottinghamshire/kirkby-in-ashfield",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "nottinghamshire/mansfield",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "nottinghamshire/netherfield",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "nottinghamshire/newark-on-trent",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "nottinghamshire/nottingham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "nottinghamshire/ollerton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "nottinghamshire/retford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "nottinghamshire/southwell",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "nottinghamshire/stapleford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "nottinghamshire/sutton-in-ashfield",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "nottinghamshire/worksop",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "oxfordshire/abingdon-on-thames",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "oxfordshire/banbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "oxfordshire/bicester",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "oxfordshire/burford",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "oxfordshire/carterton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "oxfordshire/charlbury",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "oxfordshire/chipping-norton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "oxfordshire/didcot",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "oxfordshire/faringdon",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "oxfordshire/henley-on-thames",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "oxfordshire/oxford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "oxfordshire/thame",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "oxfordshire/wallingford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "oxfordshire/wantage",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "oxfordshire/watlington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "oxfordshire/witney",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "oxfordshire/woodstock",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "perth-and-kinross/aberfeldy",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "perth-and-kinross/blairgowrie",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "perth-and-kinross/bridge-of-earn",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "perth-and-kinross/comrie",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "perth-and-kinross/coupar-angus",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "perth-and-kinross/crieff",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "perth-and-kinross/dunkeld",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "perth-and-kinross/kinross",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "perth-and-kinross/perth",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "perth-and-kinross/pitlochry",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "renfrewshire/bishopton",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "renfrewshire/bridge-of-weir",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "renfrewshire/elderslie",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "renfrewshire/erskine",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "renfrewshire/houston",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "renfrewshire/johnstone",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "renfrewshire/linwood",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "renfrewshire/paisley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "renfrewshire/renfrew",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "rutland/oakham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "rutland/uppingham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "scottish-borders/coldstream",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "scottish-borders/duns",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "scottish-borders/eyemouth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "scottish-borders/galashiels",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "scottish-borders/hawick",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "scottish-borders/jedburgh",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "scottish-borders/kelso",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "scottish-borders/melrose",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "scottish-borders/peebles",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "scottish-borders/selkirk",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shetland-islands/aith",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shetland-islands/brae",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shetland-islands/lerwick",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shetland-islands/sandwick",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shetland-islands/scalloway",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shetland-islands/voe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shetland-islands/walls",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "shetland-islands/whalsay",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shropshire/bishop-s-castle",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "shropshire/bridgnorth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shropshire/broseley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "shropshire/church-stretton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "shropshire/cleobury-mortimer",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shropshire/clun",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shropshire/craven-arms",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "shropshire/donnington",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "shropshire/ellesmere",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shropshire/ludlow",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shropshire/madeley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "shropshire/market-drayton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shropshire/much-wenlock",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "shropshire/newport",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shropshire/oswestry",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shropshire/ruyton-xi-towns",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "shropshire/shifnal",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shropshire/shrewsbury",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "shropshire/telford-and-wrekin",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "shropshire/wem",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "shropshire/whitchurch",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "somerset/axbridge",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/bath",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "somerset/bridgwater",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/bruton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/burnham-on-sea",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "somerset/castle-cary",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/chard",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/clevedon",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/crewkerne",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/dulverton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "somerset/frome",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "somerset/glastonbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/highbridge",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/ilminster",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/keynsham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/langport",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "somerset/midsomer-norton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/minehead",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/nailsea",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/north-petherton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/portishead",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "somerset/radstock",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/shepton-mallet",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/somerton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "somerset/south-petherton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/taunton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "somerset/watchet",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "somerset/wellington",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "somerset/wells",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "somerset/weston-super-mare",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "somerset/wincanton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "somerset/wiveliscombe",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "somerset/yeovil",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-ayrshire/alloway",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "south-ayrshire/ayr",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-ayrshire/girvan",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-ayrshire/maybole",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-ayrshire/prestwick",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "south-ayrshire/symington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-ayrshire/tarbolton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-ayrshire/troon",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "south-lanarkshire/biggar",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "south-lanarkshire/blantyre",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-lanarkshire/cambuslang",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-lanarkshire/carluke",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-lanarkshire/east-kilbride",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-lanarkshire/hamilton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-lanarkshire/lanark",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-lanarkshire/larkhall",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-lanarkshire/rutherglen",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-lanarkshire/strathaven",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "south-yorkshire/askern",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/barnsley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-yorkshire/bawtry",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/brierley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-yorkshire/conisbrough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-yorkshire/dinnington",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "south-yorkshire/doncaster",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-yorkshire/edlington",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-yorkshire/hatfield",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/hoyland",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "south-yorkshire/maltby",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-yorkshire/mexborough",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/penistone",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "south-yorkshire/rotherham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/sheffield",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "south-yorkshire/stainforth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "south-yorkshire/stocksbridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "south-yorkshire/swinton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "south-yorkshire/thorne",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "south-yorkshire/tickhill",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "staffordshire/biddulph",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "staffordshire/brewood",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "staffordshire/burntwood",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/burslem",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "staffordshire/burton-upon-trent",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "staffordshire/cannock",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/codsall",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/eccleshall",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "staffordshire/fazeley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "staffordshire/fenton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "staffordshire/hanley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "staffordshire/hednesford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "staffordshire/kidsgrove",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "staffordshire/leek",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/lichfield",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/longton",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "staffordshire/newcastle-under-lyme",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "staffordshire/penkridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "staffordshire/rugeley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "staffordshire/silverdale",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "staffordshire/stafford",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "staffordshire/stoke-upon-trent",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "staffordshire/tunstall",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "staffordshire/uttoxeter",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "stirling/a",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "stirling/bannockburn",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "stirling/bridge-of-allan",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "stirling/callander",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "stirling/doune",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "stirling/dunblane",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "stirling/fallin",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "stirling/killearn",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "stirling/stirling",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "suffolk/aldeburgh",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/beccles",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "suffolk/brandon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "suffolk/bungay",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/bury-st-edmunds",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "suffolk/carlton-colville",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "suffolk/earl-soham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "suffolk/eye",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "suffolk/felixstowe",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "suffolk/framlingham",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "suffolk/hadleigh",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/halesworth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "suffolk/haverhill",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/ipswich",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "suffolk/kesgrave",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "suffolk/leiston",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/lowestoft",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "suffolk/mildenhall",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "suffolk/needham-market",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "suffolk/newmarket",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/saxmundham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "suffolk/southwold",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "suffolk/stowmarket",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "suffolk/sudbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "suffolk/woodbridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "surrey/addlestone",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "surrey/ashford",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "surrey/camberley",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "surrey/caterham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "surrey/dorking",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "surrey/egham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "surrey/epsom-and-ewell",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "surrey/farnham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "surrey/godalming",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "surrey/guildford",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "surrey/haslemere",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "surrey/horley",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "surrey/leatherhead",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "surrey/lightwater",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "surrey/redhill",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "surrey/staines-upon-thames",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "surrey/walton-on-thames",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "surrey/weybridge",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "surrey/woking",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "tyne-and-wear/birtley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "tyne-and-wear/blaydon-on-tyne",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "tyne-and-wear/east-boldon",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "tyne-and-wear/gateshead",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "tyne-and-wear/hebburn",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "tyne-and-wear/hetton-le-hole",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "tyne-and-wear/houghton-le-spring",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "tyne-and-wear/jarrow",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "tyne-and-wear/killingworth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "tyne-and-wear/newcastle-upon-tyne",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "tyne-and-wear/north-shields",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "tyne-and-wear/ryton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "tyne-and-wear/south-shields",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "tyne-and-wear/sunderland",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "tyne-and-wear/tynemouth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "tyne-and-wear/wallsend",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "tyne-and-wear/washington",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "tyne-and-wear/whickham",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "tyne-and-wear/whitley-bay",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "warwickshire/alcester",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "warwickshire/atherstone",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "warwickshire/bedworth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "warwickshire/coleshill",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "warwickshire/henley-in-arden",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "warwickshire/kenilworth",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "warwickshire/nuneaton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "warwickshire/royal-leamington-spa",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "warwickshire/rugby",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "warwickshire/shipston-on-stour",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "warwickshire/southam",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "warwickshire/stratford-upon-avon",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "warwickshire/warwick",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "warwickshire/whitnash",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-dunbartonshire/alexandria",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-dunbartonshire/balloch",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-dunbartonshire/bonhill",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-dunbartonshire/bowling",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-dunbartonshire/clydebank",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-dunbartonshire/dumbarton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-dunbartonshire/old-kilpatrick",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-dunbartonshire/renton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-lothian/armadale",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-lothian/bathgate",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-lothian/blackburn",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-lothian/broxburn",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-lothian/east-calder",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-lothian/linlithgow",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-lothian/livingston",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-lothian/uphall",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-lothian/west-calder",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-lothian/whitburn",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-midlands/aldridge",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/bilston",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-midlands/birmingham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/blackheath",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/brierley-hill",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-midlands/brownhills",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-midlands/castle-bromwich",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-midlands/coventry",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-midlands/cradley-heath",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-midlands/darlaston",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/dudley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/halesowen",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/handsworth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-midlands/oldbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-midlands/rowley-regis",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-midlands/smethwick",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-midlands/solihull",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-midlands/stourbridge",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-midlands/sutton-coldfield",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/tipton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/walsall",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-midlands/wednesbury",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-midlands/west-bromwich",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-midlands/willenhall",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-midlands/wolverhampton",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-sussex/arundel",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-sussex/bognor-regis",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-sussex/burgess-hill",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-sussex/chichester",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-sussex/crawley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-sussex/east-grinstead",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-sussex/haywards-heath",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-sussex/horsham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-sussex/littlehampton",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-sussex/midhurst",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-sussex/petworth",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-sussex/selsey",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-sussex/shoreham-by-sea",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-sussex/southwick",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-sussex/steyning",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-sussex/westerham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-sussex/worthing",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/baildon",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-yorkshire/batley",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-yorkshire/bingley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/bradford--interesting-below-near-low-moor-",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-yorkshire/brighouse",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-yorkshire/castleford",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-yorkshire/cleckheaton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/denholme",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/dewsbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/elland",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-yorkshire/featherstone",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/guiseley",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/halifax",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-yorkshire/hebden-bridge",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/heckmondwike",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/holmfirth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/horbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/horsforth",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-yorkshire/huddersfield",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-yorkshire/ilkley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/keighley",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/knottingley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/leeds",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/meltham",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-yorkshire/mirfield",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/morley",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/normanton",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-yorkshire/ossett",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/otley",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/pontefract",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/pudsey",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/rothwell",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/shipley",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/silsden",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "west-yorkshire/south-elmsall",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "west-yorkshire/sowerby-bridge",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "west-yorkshire/todmorden",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "west-yorkshire/wakefield-district",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "west-yorkshire/wetherby",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "west-yorkshire/yeadon",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "wiltshire/amesbury",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "wiltshire/bradford-on-avon",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "wiltshire/calne",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "wiltshire/chippenham",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "wiltshire/corsham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "wiltshire/cricklade",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "wiltshire/devizes",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "wiltshire/ludgershall",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "wiltshire/malmesbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "wiltshire/marlborough",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "wiltshire/melksham",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "wiltshire/mere",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "wiltshire/salisbury",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "wiltshire/swindon",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "wiltshire/tidworth",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "wiltshire/trowbridge",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "wiltshire/warminster",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "wiltshire/westbury",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "wiltshire/wilton",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "worcestershire/bewdley",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "worcestershire/bromsgrove",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "worcestershire/droitwich-spa",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "worcestershire/evesham",
+      "status": "success",
+      "message": "Updated 5 facilities",
+      "facility_count": 5
+    },
+    {
+      "city_key": "worcestershire/kidderminster",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "worcestershire/malvern",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "worcestershire/pershore",
+      "status": "success",
+      "message": "Updated 6 facilities",
+      "facility_count": 6
+    },
+    {
+      "city_key": "worcestershire/redditch",
+      "status": "success",
+      "message": "Updated 8 facilities",
+      "facility_count": 8
+    },
+    {
+      "city_key": "worcestershire/stourport-on-severn",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    },
+    {
+      "city_key": "worcestershire/tenbury-wells",
+      "status": "success",
+      "message": "Updated 4 facilities",
+      "facility_count": 4
+    },
+    {
+      "city_key": "worcestershire/upton-upon-severn",
+      "status": "success",
+      "message": "Updated 3 facilities",
+      "facility_count": 3
+    },
+    {
+      "city_key": "worcestershire/worcester",
+      "status": "success",
+      "message": "Updated 7 facilities",
+      "facility_count": 7
+    }
+  ],
+  "csv_file": "correct_storage_facilities.csv",
+  "csv_cities": 4,
+  "cities_found": 1258,
+  "elapsed_time": "13.69 seconds"
+}

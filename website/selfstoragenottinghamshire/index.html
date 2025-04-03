@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Self Storage in Nottinghamshire - Find Storage Units Near You</title>
+<link href="../assets/css/style.css" rel="stylesheet"/>
+<meta content="Find the best self storage facilities in Nottinghamshire. Compare prices, features, and availability of storage units near you." name="description"/>
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16x16.png"/></head>
+<body><header><div class="container">
+<div class="logo">Storage Finder</div>
+<nav>
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a href="../selfstorageregions/index.html">Regions</a></li>
+<li><a href="../faq/index.html">FAQ</a></li>
+<li><a href="../about/index.html">About</a></li>
+<li><a href="../contact/index.html">Contact</a></li>
+
+<li><a href="../calculator/index.html">Storage Calculator</a></li>
+<li><a href="../blog/index.html">Blog</a></li></ul></nav>
+</div></header><div class="container"><div class="region-intro"><div class="breadcrumbs"><a href="../index.html">Home</a> &gt; <a href="../selfstorageregions/index.html">Regions</a> &gt; <span>Nottinghamshire</span></div><h1>Self Storage in Nottinghamshire</h1><p>Find the best self storage facilities in Nottinghamshire. We have 19 locations available.</p></div><div class="search-form"><input facility="Search for a city in Nottinghamshire..." id="citySearch" storage="" type="text"/><button onclick="searchCity()">Search</button></div><h2 id="search-results-heading">Cities with Self Storage in Nottinghamshire</h2>
+<div class="container">
+<h2>Cities in Nottinghamshire</h2>
+<div class="cities-grid"><div class="city-card"><h3>Arnold</h3><p>1 Storage Facility</p><a href="selfstoragearnold/index.html">View Storage Options</a></div><div class="city-card"><h3>Beeston</h3><p>1 Storage Facility</p><a href="selfstoragebeeston/index.html">View Storage Options</a></div><div class="city-card"><h3>Bingham</h3><p>1 Storage Facility</p><a href="selfstoragebingham/index.html">View Storage Options</a></div><div class="city-card"><h3>Cotgrave</h3><p>1 Storage Facility</p><a href="selfstoragecotgrave/index.html">View Storage Options</a></div><div class="city-card"><h3>Bulwell</h3><p>2 Storage Facilities</p><a href="selfstoragebulwell/index.html">View Storage Options</a></div><div class="city-card"><h3>Eastwood</h3><p>1 Storage Facility</p><a href="selfstorageeastwood/index.html">View Storage Options</a></div><div class="city-card"><h3>Hucknall</h3><p>1 Storage Facility</p><a href="selfstoragehucknall/index.html">View Storage Options</a></div><div class="city-card"><h3>Kimberley</h3><p>1 Storage Facility</p><a href="selfstoragekimberley/index.html">View Storage Options</a></div><div class="city-card"><h3>Kirkby-in-Ashfield</h3><p>2 Storage Facilities</p><a href="selfstoragekirkby-in-ashfield/index.html">View Storage Options</a></div><div class="city-card"><h3>Mansfield</h3><p>6 Storage Facilities</p><a href="selfstoragemansfield/index.html">View Storage Options</a></div><div class="city-card"><h3>Netherfield</h3><p>1 Storage Facility</p><a href="selfstoragenetherfield/index.html">View Storage Options</a></div><div class="city-card"><h3>Newark-on-Trent</h3><p>3 Storage Facilities</p><a href="selfstoragenewark-on-trent/index.html">View Storage Options</a></div><div class="city-card"><h3>Ollerton</h3><p>1 Storage Facility</p><a href="selfstorageollerton/index.html">View Storage Options</a></div><div class="city-card"><h3>Retford</h3><p>4 Storage Facilities</p><a href="selfstorageretford/index.html">View Storage Options</a></div><div class="city-card"><h3>Southwell</h3><p>1 Storage Facility</p><a href="selfstoragesouthwell/index.html">View Storage Options</a></div><div class="city-card"><h3>Stapleford</h3><p>1 Storage Facility</p><a href="selfstoragestapleford/index.html">View Storage Options</a></div><div class="city-card"><h3>Sutton-in-Ashfield</h3><p>5 Storage Facilities</p><a href="selfstoragesutton-in-ashfield/index.html">View Storage Options</a></div><div class="city-card"><h3>Worksop</h3><p>2 Storage Facilities</p><a href="selfstorageworksop/index.html">View Storage Options</a></div><div class="city-card"><h3>Nottingham</h3><p>15 Storage Facilities</p><a href="selfstoragenottingham/index.html">View Storage Options</a></div></div>
+</div>
+</div><footer><div class="container"><div class="footer-columns"><div class="footer-column"><h3>Legal</h3><ul><li><a href="../privacy/index.html">Privacy Policy</a></li><li><a href="../terms/index.html">Terms of Use</a></li><li><a href="../membership/index.html">Membership Terms</a></li></ul></div><div class="footer-column"><h3>Navigate</h3><ul><li><a href="../index.html">Home</a></li><li><a href="../selfstorageregions/index.html">Regions</a></li><li><a href="../faq/index.html">FAQ</a></li><li><a href="../sitemap.xml">Sitemap</a></li></ul></div><div class="footer-column"><h3>Company</h3><ul><li><a href="../about/index.html">About Us</a></li><li><a href="../contact/index.html">Contact</a></li></ul></div></div><div class="footer-bottom"><p>© 2025 Storage Finder. All rights reserved.</p></div></div></footer><script>
+function searchCity() {
+    var input = document.getElementById('citySearch').value.toLowerCase();
+    var cards = document.querySelectorAll('.city-card');
+    var resultsHeading = document.getElementById('search-results-heading');
+    var foundCount = 0;
+    
+    cards.forEach(function(card) {
+        var cityName = card.querySelector('h3').innerText.toLowerCase();
+        
+        if (cityName.includes(input)) {
+            card.style.display = 'block';
+            foundCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+    
+    if (input === '') {
+        resultsHeading.innerText = 'Cities with Self Storage in Nottinghamshire';
+    } else if (foundCount === 0) {
+        resultsHeading.innerText = 'No cities found matching "' + input + '"';
+    } else {
+        resultsHeading.innerText = 'Cities matching "' + input + '"';
+    }
+}
+</script></body>
+</html>

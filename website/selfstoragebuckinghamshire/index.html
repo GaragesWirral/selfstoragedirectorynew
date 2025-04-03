@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Self Storage in Buckinghamshire - Find Storage Units Near You</title>
+<meta content="Find the best self storage facilities in Buckinghamshire. Compare prices, features, and availability of storage units near you." name="description"/>
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="../assets/img/favicon-16x16.png"/>
+<link href="../assets/css/style.css" rel="stylesheet"/>
+</head>
+<body><header>
+<div class="container">
+<div class="logo">Storage Finder</div>
+<nav>
+<ul>
+<li><a href="../index.html">Home</a></li>
+<li><a href="../selfstorageregions/index.html">Regions</a></li>
+<li><a href="../faq/index.html">FAQ</a></li>
+<li><a href="../about/index.html">About</a></li>
+<li><a href="../contact/index.html">Contact</a></li>
+
+<li><a href="../calculator/index.html">Storage Calculator</a></li>
+<li><a href="../blog/index.html">Blog</a></li></ul></nav>
+</div>
+</header><div class="container"><div class="region-intro"><div class="breadcrumbs"><a href="../index.html">Home</a> &gt; <a href="../selfstorageregions/index.html">Regions</a> &gt; <span>Buckinghamshire</span></div><h1>Self Storage in Buckinghamshire</h1><p>Find and compare self storage facilities in 13 cities across Buckinghamshire.</p></div><div class="container">
+<div class="container">
+<div class="search-form">
+<input facility="Search for a city..." id="citySearch" storage="" type="text"/>
+<button onclick="searchCity()">Search</button>
+</div>
+<h2 id="search-results-heading" style="display: none; margin-top: 30px;">Search Results</h2>
+<div class="cities-grid"><div class="city-card"><h3>Amersham</h3><p>2 Storage Facilities</p><a href="selfstorageamersham/index.html">View Storage Options</a></div><div class="city-card"><h3>Aylesbury</h3><p>8 Storage Facilities</p><a href="selfstorageaylesbury/index.html">View Storage Options</a></div><div class="city-card"><h3>Beaconsfield</h3><p>1 Storage Facility</p><a href="selfstoragebeaconsfield/index.html">View Storage Options</a></div><div class="city-card"><h3>Buckingham</h3><p>3 Storage Facilities</p><a href="selfstoragebuckingham/index.html">View Storage Options</a></div><div class="city-card"><h3>Chesham</h3><p>1 Storage Facility</p><a href="selfstoragechesham/index.html">View Storage Options</a></div><div class="city-card"><h3>High Wycombe</h3><p>6 Storage Facilities</p><a href="selfstoragehigh-wycombe/index.html">View Storage Options</a></div><div class="city-card"><h3>Milton Keynes</h3><p>13 Storage Facilities</p><a href="selfstoragemilton-keynes/index.html">View Storage Options</a></div><div class="city-card"><h3>Olney</h3><p>2 Storage Facilities</p><a href="selfstorageolney/index.html">View Storage Options</a></div><div class="city-card"><h3>Gerrards Cross</h3><p>1 Storage Facility</p><a href="selfstoragegerrards-cross/index.html">View Storage Options</a></div><div class="city-card"><h3>Princes Risborough</h3><p>1 Storage Facility</p><a href="selfstorageprinces-risborough/index.html">View Storage Options</a></div><div class="city-card"><h3>Wendover</h3><p>1 Storage Facility</p><a href="selfstoragewendover/index.html">View Storage Options</a></div><div class="city-card"><h3>Winslow</h3><p>1 Storage Facility</p><a href="selfstoragewinslow/index.html">View Storage Options</a></div><div class="city-card"><h3>Hazlemere</h3><p>1 Storage Facility</p><a href="selfstoragehazlemere/index.html">View Storage Options</a></div></div>
+</div>
+</div></div><footer><div class="container"><div class="footer-columns"><div class="footer-column"><h3>Legal</h3><ul><li><a href="../privacy/index.html">Privacy Policy</a></li><li><a href="../terms/index.html">Terms of Use</a></li><li><a href="../membership/index.html">Membership Terms</a></li></ul></div><div class="footer-column"><h3>Navigate</h3><ul><li><a href="../index.html">Home</a></li><li><a href="../selfstorageregions/index.html">Regions</a></li><li><a href="../faq/index.html">FAQ</a></li><li><a href="../sitemap.xml">Sitemap</a></li></ul></div><div class="footer-column"><h3>Company</h3><ul><li><a href="../about/index.html">About Us</a></li><li><a href="../contact/index.html">Contact</a></li></ul></div></div><div class="footer-bottom"><p>© 2025 Storage Finder. All rights reserved.</p></div></div></footer><script>
+function searchCity() {
+    var input = document.getElementById('citySearch').value.toLowerCase();
+    var cards = document.querySelectorAll('.city-card');
+    var resultsHeading = document.getElementById('search-results-heading');
+    var foundCount = 0;
+    
+    cards.forEach(function(card) {
+        var cityName = card.querySelector('h3').innerText.toLowerCase();
+        
+        if (cityName.includes(input)) {
+            card.style.display = 'block';
+            foundCount++;
+        } else {
+            card.style.display = 'none';
+        }
+    });
+    
+    if (input === '') {
+        resultsHeading.innerText = 'Cities with Self Storage in Buckinghamshire';
+    } else if (foundCount === 0) {
+        resultsHeading.innerText = 'No cities found matching "' + input + '"';
+    } else {
+        resultsHeading.innerText = 'Cities matching "' + input + '"';
+    }
+}
+</script></body>
+</html>

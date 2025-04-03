@@ -1,0 +1,17 @@
+Verification Report
+==================
+
+Summary:
+- Total files checked: 1345
+- Files with no issues: 1345
+- Files with warnings only: 0
+- Files with issues: 0
+- Time taken: 7.42 seconds
+
+Files with issues:
+
+Issues by type:
+
+Warnings by type:
+
+Detailed list of files with issues:
