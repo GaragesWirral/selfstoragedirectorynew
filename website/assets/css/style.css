@@ -408,12 +408,29 @@ footer {
         grid-template-columns: 1fr;
     }
     
+    /* Improved mobile header styles */
+    header {
+        padding: 10px 0;
+    }
+    
     header .container {
         flex-direction: column;
+        gap: 8px;
+    }
+    
+    .logo {
+        font-size: 20px;
     }
     
     nav ul {
-        margin-top: 15px;
+        margin-top: 8px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    nav ul li {
+        margin: 3px 8px;
+        font-size: 14px;
     }
     
     .footer-columns {
