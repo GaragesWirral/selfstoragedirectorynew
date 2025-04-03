@@ -251,6 +251,80 @@
             grid-template-columns: 1fr;
         }
     }
+/* FAQ Styles - Add these here */
+    .faq-container {
+        max-width: 800px;
+        margin: 0 auto 40px;
+        padding: 0 20px;
+    }
+
+    .faq-item {
+        margin-bottom: 15px;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        overflow: hidden;
+    }
+
+    .faq-question {
+        width: 100%;
+        text-align: left;
+        background-color: #f0f8f0;
+        border: none;
+        padding: 15px 20px;
+        font-size: 18px;
+        color: #006400;
+        cursor: pointer;
+        position: relative;
+        font-weight: 500;
+        transition: background-color 0.3s;
+    }
+
+    .faq-question:hover {
+        background-color: #e8f5e9;
+    }
+
+    .faq-question:after {
+        content: '\25BC'; /* Down arrow */
+        position: absolute;
+        right: 20px;
+        font-size: 14px;
+        transition: transform 0.3s;
+    }
+
+    .faq-question.active:after {
+        transform: rotate(180deg); /* Up arrow when active */
+    }
+
+    .faq-answer {
+        display: none;
+        padding: 15px 20px;
+        color: #333333;
+        font-size: 16px;
+        line-height: 1.6;
+        background-color: #fff;
+    }
+
+    .faq-answer.active {
+        display: block;
+    }
+
+    /* Responsive adjustments for FAQ */
+    @media (max-width: 768px) {
+        .faq-container {
+            padding: 0 10px;
+        }
+        
+        .faq-question {
+            font-size: 16px;
+            padding: 12px 15px;
+        }
+        
+        .faq-answer {
+            font-size: 14px;
+            padding: 12px 15px;
+        }
+    }
 </style>
 <script src="assets/js/storage-calculator.js"></script>
 </head>
@@ -354,6 +428,57 @@
 
 <div class="browse-all">
     <a href="selfstorageregions/index.html" class="btn">Browse All Regions</a>
+</div>
+<h2 class="section-title">Frequently Asked Questions</h2>
+<div class="faq-container">
+    <div class="faq-item">
+        <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
+            What is self storage?
+        </button>
+        <div class="faq-answer">
+            <p>Self storage provides secure, accessible space for individuals and businesses to store their belongings. Units come in various sizes and are typically rented on a month-to-month basis, giving you flexibility for both short and long-term storage needs.</p>
+        </div>
+    </div>
+    
+    <div class="faq-item">
+        <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
+            What size storage unit do I need?
+        </button>
+        <div class="faq-answer">
+            <p>Storage unit sizes typically range from small lockers (16 sq ft) to large units (300+ sq ft). A small 5x5 unit (25 sq ft) can fit boxes and small furniture, while a 10x10 unit (100 sq ft) can store contents of a 1-bedroom apartment. For a 3-4 bedroom house, you might need a 10x20 or larger unit.</p>
+        </div>
+    </div>
+    
+    <div class="faq-item">
+        <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
+            How much does self storage cost?
+        </button>
+        <div class="faq-answer">
+            <p>Storage unit prices vary by location, size, features, and demand. In the UK, prices typically range from £50-£100/month for small units to £200-£400/month for large units. Climate-controlled units and facilities in urban areas generally cost more.</p>
+        </div>
+    </div>
+    
+    <div class="faq-item">
+        <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
+            What security features should I look for?
+        </button>
+        <div class="faq-answer">
+            <p>Look for facilities with 24/7 CCTV monitoring, gated access with individual entry codes, good lighting, on-site management, and individual unit alarms. Some premium facilities also offer biometric security measures.</p>
+        </div>
+    </div>
+    
+    <div class="faq-item">
+        <button class="faq-question" onclick="this.nextElementSibling.classList.toggle('active'); this.classList.toggle('active')">
+            Do I need climate control?
+        </button>
+        <div class="faq-answer">
+            <p>Climate-controlled units maintain consistent temperature and humidity levels, protecting sensitive items from extreme conditions. Consider climate control for storing electronics, wooden furniture, musical instruments, artwork, and antiques.</p>
+        </div>
+    </div>
+</div>
+
+<div class="browse-all">
+    <a href="faq/index.html" class="btn">Go to FAQ</a>
 </div>
 
 </div>
